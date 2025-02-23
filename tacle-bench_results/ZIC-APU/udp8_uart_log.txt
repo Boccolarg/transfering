@@ -1,0 +1,1006 @@
+[ 2109.986320] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2110.017589] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70606 ns
+Closing cell "inmate-demo-APU"
+[ 2112.398793] Detected VIPT I-cache on CPU0
+[ 2112.398840] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2112.398891] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2112.412423] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2112.519780] external_script (1333): drop_caches: 3
+[ 2114.720848] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2114.738860] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70878 ns
+Closing cell "inmate-demo-APU"
+[ 2117.115522] Detected VIPT I-cache on CPU0
+[ 2117.115570] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2117.115624] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2117.122564] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2117.147108] external_script (1333): drop_caches: 3
+[ 2119.333341] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2119.357806] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70575 ns
+Closing cell "inmate-demo-APU"
+[ 2121.721067] Detected VIPT I-cache on CPU0
+[ 2121.721116] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2121.721170] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2121.721571] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2121.747560] external_script (1333): drop_caches: 3
+[ 2123.873509] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2123.899421] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70767 ns
+Closing cell "inmate-demo-APU"
+[ 2126.247960] Detected VIPT I-cache on CPU0
+[ 2126.248008] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2126.248059] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2126.255993] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2126.347459] external_script (1333): drop_caches: 3
+[ 2128.609686] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2128.620529] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70929 ns
+Closing cell "inmate-demo-APU"
+[ 2130.852652] Detected VIPT I-cache on CPU0
+[ 2130.852699] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2130.852751] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2130.869958] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2130.896143] external_script (1333): drop_caches: 3
+[ 2133.094879] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2133.131870] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70767 ns
+Closing cell "inmate-demo-APU"
+[ 2135.580771] Detected VIPT I-cache on CPU0
+[ 2135.580820] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2135.580872] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2135.581368] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2135.605979] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2137.776936] psci: CPU0 killed (polled 0 ms)
+[ 2137.805188] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70808 ns
+Closing cell "inmate-demo-APU"
+[ 2140.168854] Detected VIPT I-cache on CPU0
+[ 2140.168904] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2140.168956] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2140.169469] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2140.196061] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2142.346852] psci: CPU0 killed (polled 0 ms)
+[ 2142.364743] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70737 ns
+Closing cell "inmate-demo-APU"
+[ 2144.857194] Detected VIPT I-cache on CPU0
+[ 2144.857243] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2144.857294] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2144.857814] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2144.885542] external_script (1333): drop_caches: 3
+[ 2147.081917] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2147.118015] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70757 ns
+Closing cell "inmate-demo-APU"
+[ 2149.467091] Detected VIPT I-cache on CPU0
+[ 2149.467139] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2149.467190] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2149.474185] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2149.530221] external_script (1333): drop_caches: 3
+[ 2151.695237] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2151.710987] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71161 ns
+Closing cell "inmate-demo-APU"
+[ 2154.125922] Detected VIPT I-cache on CPU0
+[ 2154.125971] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2154.126025] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2154.160118] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2154.188106] external_script (1333): drop_caches: 3
+[ 2156.370463] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2156.398047] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71060 ns
+Closing cell "inmate-demo-APU"
+[ 2158.730515] Detected VIPT I-cache on CPU0
+[ 2158.730564] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2158.730615] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2158.735596] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2158.812174] external_script (1333): drop_caches: 3
+[ 2161.025258] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2161.049977] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71373 ns
+Closing cell "inmate-demo-APU"
+[ 2163.405091] Detected VIPT I-cache on CPU0
+[ 2163.405140] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2163.405191] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2163.407833] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2163.433961] external_script (1333): drop_caches: 3
+[ 2165.609854] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2165.629873] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70777 ns
+Closing cell "inmate-demo-APU"
+[ 2167.989848] Detected VIPT I-cache on CPU0
+[ 2167.989897] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2167.989948] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2167.997610] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2168.224612] external_script (1333): drop_caches: 3
+[ 2170.485946] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2170.509322] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70818 ns
+Closing cell "inmate-demo-APU"
+[ 2172.997187] Detected VIPT I-cache on CPU0
+[ 2172.997237] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2172.997288] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2172.999922] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2173.028289] external_script (1333): drop_caches: 3
+[ 2175.164921] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2175.184752] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70696 ns
+Closing cell "inmate-demo-APU"
+[ 2177.520871] Detected VIPT I-cache on CPU0
+[ 2177.520919] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2177.520970] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2177.523621] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2177.548339] external_script (1333): drop_caches: 3
+[ 2179.761402] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2179.811961] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71101 ns
+Closing cell "inmate-demo-APU"
+[ 2182.158557] Detected VIPT I-cache on CPU0
+[ 2182.158605] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2182.158658] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2182.197210] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2182.259250] external_script (1333): drop_caches: 3
+[ 2184.540735] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2184.581980] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71010 ns
+Closing cell "inmate-demo-APU"
+[ 2187.047171] Detected VIPT I-cache on CPU0
+[ 2187.047221] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2187.047274] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2187.058894] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2187.107070] external_script (1333): drop_caches: 3
+[ 2189.373767] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2189.397853] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71434 ns
+Closing cell "inmate-demo-APU"
+[ 2191.638664] Detected VIPT I-cache on CPU0
+[ 2191.638712] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2191.638763] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2191.652657] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2191.678957] external_script (1333): drop_caches: 3
+[ 2193.877360] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2193.904212] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70606 ns
+Closing cell "inmate-demo-APU"
+[ 2196.301732] Detected VIPT I-cache on CPU0
+[ 2196.301780] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2196.301833] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2196.321398] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2196.535116] external_script (1333): drop_caches: 3
+[ 2198.817518] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2198.865154] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71010 ns
+Closing cell "inmate-demo-APU"
+[ 2201.224818] Detected VIPT I-cache on CPU0
+[ 2201.224868] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2201.224919] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2201.225350] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2201.254763] external_script (1333): drop_caches: 3
+[ 2203.387180] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2203.411890] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70686 ns
+Closing cell "inmate-demo-APU"
+[ 2205.615847] Detected VIPT I-cache on CPU0
+[ 2205.615894] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2205.615946] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2205.627804] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2205.693899] external_script (1333): drop_caches: 3
+[ 2207.970409] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2207.998435] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70626 ns
+Closing cell "inmate-demo-APU"
+[ 2210.274579] Detected VIPT I-cache on CPU0
+[ 2210.274629] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2210.274679] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2210.299828] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2210.327312] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2212.501127] psci: CPU0 killed (polled 0 ms)
+[ 2212.530090] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70484 ns
+Closing cell "inmate-demo-APU"
+[ 2214.919681] Detected VIPT I-cache on CPU0
+[ 2214.919729] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2214.919781] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2214.920404] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2214.947113] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2217.121549] psci: CPU0 killed (polled 0 ms)
+[ 2217.164717] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70787 ns
+Closing cell "inmate-demo-APU"
+[ 2219.569231] Detected VIPT I-cache on CPU0
+[ 2219.569279] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2219.569332] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2219.578073] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2219.646009] external_script (1333): drop_caches: 3
+[ 2221.833924] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2221.847856] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70929 ns
+Closing cell "inmate-demo-APU"
+[ 2224.212921] Detected VIPT I-cache on CPU0
+[ 2224.212970] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2224.213022] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2224.216944] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2224.298515] external_script (1333): drop_caches: 3
+[ 2226.471015] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2226.498314] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70818 ns
+Closing cell "inmate-demo-APU"
+[ 2228.883295] Detected VIPT I-cache on CPU0
+[ 2228.883344] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2228.883396] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2228.889248] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2229.102060] external_script (1333): drop_caches: 3
+[ 2231.313391] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2231.366616] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71242 ns
+Closing cell "inmate-demo-APU"
+[ 2233.738545] Detected VIPT I-cache on CPU0
+[ 2233.738591] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2233.738642] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2233.739298] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2233.765754] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2235.924869] psci: CPU0 killed (polled 0 ms)
+[ 2235.946671] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71171 ns
+Closing cell "inmate-demo-APU"
+[ 2238.510409] Detected VIPT I-cache on CPU0
+[ 2238.510458] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2238.510511] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2238.513720] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2238.590535] external_script (1333): drop_caches: 3
+[ 2240.789304] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2240.799844] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70777 ns
+Closing cell "inmate-demo-APU"
+[ 2243.128828] Detected VIPT I-cache on CPU0
+[ 2243.128877] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2243.128930] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2243.132619] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2243.160596] external_script (1333): drop_caches: 3
+[ 2245.327947] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2245.350617] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70848 ns
+Closing cell "inmate-demo-APU"
+[ 2247.669728] Detected VIPT I-cache on CPU0
+[ 2247.669775] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2247.669826] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2247.670249] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2247.694919] external_script (1333): drop_caches: 3
+[ 2249.846828] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2249.864748] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71101 ns
+Closing cell "inmate-demo-APU"
+[ 2252.157539] Detected VIPT I-cache on CPU0
+[ 2252.157589] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2252.157642] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2252.159778] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2252.375405] external_script (1333): drop_caches: 3
+[ 2254.581254] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2254.616308] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70535 ns
+Closing cell "inmate-demo-APU"
+[ 2257.056845] Detected VIPT I-cache on CPU0
+[ 2257.056894] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2257.056949] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2257.060636] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2257.088851] external_script (1333): drop_caches: 3
+[ 2259.309169] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2259.352068] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70616 ns
+Closing cell "inmate-demo-APU"
+[ 2261.766829] Detected VIPT I-cache on CPU0
+[ 2261.766877] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2261.766928] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2261.767543] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2261.793482] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2264.002446] psci: CPU0 killed (polled 0 ms)
+[ 2264.021257] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70828 ns
+Closing cell "inmate-demo-APU"
+[ 2266.419333] Detected VIPT I-cache on CPU0
+[ 2266.419380] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2266.419432] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2266.422118] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2266.447608] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2268.640779] psci: CPU0 killed (polled 0 ms)
+[ 2268.674347] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70636 ns
+Closing cell "inmate-demo-APU"
+[ 2271.059286] Detected VIPT I-cache on CPU0
+[ 2271.059334] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2271.059385] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2271.060122] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2271.088006] external_script (1333): drop_caches: 3
+[ 2273.233952] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2273.250490] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71131 ns
+Closing cell "inmate-demo-APU"
+[ 2275.644971] Detected VIPT I-cache on CPU0
+[ 2275.645020] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2275.645073] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2275.645492] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2275.671756] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2277.865546] psci: CPU0 killed (polled 0 ms)
+[ 2277.884514] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71151 ns
+Closing cell "inmate-demo-APU"
+[ 2280.123673] Detected VIPT I-cache on CPU0
+[ 2280.123720] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2280.123770] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2280.135801] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2280.196866] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2282.470735] psci: CPU0 killed (polled 0 ms)
+[ 2282.513232] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71282 ns
+Closing cell "inmate-demo-APU"
+[ 2284.763690] Detected VIPT I-cache on CPU0
+[ 2284.763738] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2284.763789] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2284.779557] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2284.847075] external_script (1333): drop_caches: 3
+[ 2287.086090] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2287.146087] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71050 ns
+Closing cell "inmate-demo-APU"
+[ 2289.518775] Detected VIPT I-cache on CPU0
+[ 2289.518824] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2289.518876] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2289.537689] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2289.584399] external_script (1333): drop_caches: 3
+[ 2291.749146] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2291.794778] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70707 ns
+Closing cell "inmate-demo-APU"
+[ 2294.087162] Detected VIPT I-cache on CPU0
+[ 2294.087209] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2294.087262] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2294.096672] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2294.159276] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2296.401587] psci: CPU0 killed (polled 0 ms)
+[ 2296.437654] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85474 ns
+Closing cell "inmate-demo-APU"
+[ 2298.792798] Detected VIPT I-cache on CPU0
+[ 2298.792847] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2298.792900] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2298.793326] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2298.819716] external_script (1333): drop_caches: 3
+[ 2300.961713] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2300.982382] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84929 ns
+Closing cell "inmate-demo-APU"
+[ 2303.388782] Detected VIPT I-cache on CPU0
+[ 2303.388829] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2303.388880] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2303.389366] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2303.415374] external_script (1333): drop_caches: 3
+[ 2305.553841] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2305.574200] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84494 ns
+Closing cell "inmate-demo-APU"
+[ 2307.863345] Detected VIPT I-cache on CPU0
+[ 2307.863393] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2307.863445] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2307.867299] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2307.937468] external_script (1333): drop_caches: 3
+[ 2310.141708] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2310.159568] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  83747 ns
+Closing cell "inmate-demo-APU"
+[ 2312.543313] Detected VIPT I-cache on CPU0
+[ 2312.543360] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2312.543412] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2312.551642] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2312.802658] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2315.037274] psci: CPU0 killed (polled 0 ms)
+[ 2315.054129] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85161 ns
+Closing cell "inmate-demo-APU"
+[ 2317.247074] Detected VIPT I-cache on CPU0
+[ 2317.247121] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2317.247173] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2317.256509] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2317.311782] external_script (1333): drop_caches: 3
+[ 2319.513229] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2319.572798] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85393 ns
+Closing cell "inmate-demo-APU"
+[ 2321.899770] Detected VIPT I-cache on CPU0
+[ 2321.899818] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2321.899870] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2321.909376] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2321.975207] external_script (1333): drop_caches: 3
+[ 2324.217879] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2324.232928] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  83515 ns
+Closing cell "inmate-demo-APU"
+[ 2326.548924] Detected VIPT I-cache on CPU0
+[ 2326.548974] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2326.549028] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2326.565391] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2326.633109] external_script (1333): drop_caches: 3
+[ 2328.911091] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2328.921038] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85151 ns
+Closing cell "inmate-demo-APU"
+[ 2331.348846] Detected VIPT I-cache on CPU0
+[ 2331.348893] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2331.348944] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2331.349397] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2331.377746] external_script (1333): drop_caches: 3
+[ 2333.561438] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2333.597759] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84646 ns
+Closing cell "inmate-demo-APU"
+[ 2335.964185] Detected VIPT I-cache on CPU0
+[ 2335.964231] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2335.964283] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2335.975374] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2336.001956] external_script (1333): drop_caches: 3
+[ 2338.182069] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2338.211120] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85595 ns
+Closing cell "inmate-demo-APU"
+[ 2340.512857] Detected VIPT I-cache on CPU0
+[ 2340.512904] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2340.512958] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2340.527880] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2340.573934] external_script (1333): drop_caches: 3
+[ 2342.821989] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2342.860089] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85474 ns
+Closing cell "inmate-demo-APU"
+[ 2345.217541] Detected VIPT I-cache on CPU0
+[ 2345.217589] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2345.217640] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2345.224142] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2345.299640] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2347.501567] psci: CPU0 killed (polled 0 ms)
+[ 2347.506330] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85868 ns
+Closing cell "inmate-demo-APU"
+[ 2349.847784] Detected VIPT I-cache on CPU0
+[ 2349.847832] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2349.847885] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2349.856621] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2349.884778] external_script (1333): drop_caches: 3
+[ 2352.017331] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2352.041376] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84424 ns
+Closing cell "inmate-demo-APU"
+[ 2354.484775] Detected VIPT I-cache on CPU0
+[ 2354.484823] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2354.484876] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2354.485484] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2354.743795] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2356.996740] psci: CPU0 killed (polled 0 ms)
+[ 2357.023588] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  83717 ns
+Closing cell "inmate-demo-APU"
+[ 2359.402632] Detected VIPT I-cache on CPU0
+[ 2359.402681] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2359.402731] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2359.432801] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2359.457432] external_script (1333): drop_caches: 3
+[ 2361.637165] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2361.655343] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85414 ns
+Closing cell "inmate-demo-APU"
+[ 2364.032911] Detected VIPT I-cache on CPU0
+[ 2364.032959] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2364.033012] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2364.033424] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2364.059599] external_script (1333): drop_caches: 3
+[ 2366.185376] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[ 2366.208350] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  82707 ns
+Closing cell "inmate-demo-APU"
+[ 2368.644802] Detected VIPT I-cache on CPU0
+[ 2368.644851] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2368.644905] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2368.645332] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2368.672944] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2370.841408] psci: CPU0 killed (polled 0 ms)
+[ 2370.880241] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  83464 ns
+Closing cell "inmate-demo-APU"
+[ 2373.245623] Detected VIPT I-cache on CPU0
+[ 2373.245670] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[ 2373.245723] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[ 2373.262445] Destroyed Jailhouse cell "inmate-demo-APU"
+[ 2373.327537] external_script (1333): drop_caches: 3
+Created cell "inmate-demo-APU"
+[ 2375.464925] psci: CPU0 killed (polled 0 ms)
+[ 2375.514624] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85414 ns
+[ 2390.752465] mmc1: Timeout waiting for hardware interrupt.
+[ 2390.752476] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2390.752479] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2390.752486] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2390.752490] mmc1: sdhci: Argument:  0x025ed978 | Trn mode: 0x0000003b
+[ 2390.752494] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2390.752497] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2390.752501] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2390.752504] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00000003
+[ 2390.752508] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2390.752511] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2390.752514] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2390.752518] mmc1: sdhci: Cmd:       0x0000123a | Max curr: 0x00000000
+[ 2390.752522] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2390.752525] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2390.752529] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2390.752531] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2390.752535] mmc1: sdhci: ============================================
+[ 2400.992475] mmc1: Timeout waiting for hardware interrupt.
+[ 2400.992486] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2400.992489] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2400.992496] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2400.992500] mmc1: sdhci: Argument:  0x00000000 | Trn mode: 0x00000033
+[ 2400.992503] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2400.992506] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2400.992510] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2400.992514] mmc1: sdhci: Timeout:   0x0000000e | Int stat: 0x00018002
+[ 2400.992517] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2400.992521] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2400.992525] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2400.992528] mmc1: sdhci: Cmd:       0x00000c1b | Max curr: 0x00000000
+[ 2400.992532] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2400.992535] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2400.992539] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2400.992542] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2400.992546] mmc1: sdhci: ============================================
+[ 2411.232445] mmc1: Timeout waiting for hardware cmd interrupt.
+[ 2411.232457] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2411.232461] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2411.232468] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2411.232472] mmc1: sdhci: Argument:  0x00010000 | Trn mode: 0x00000033
+[ 2411.232476] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2411.232479] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2411.232483] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2411.232486] mmc1: sdhci: Timeout:   0x0000000e | Int stat: 0x00018001
+[ 2411.232490] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2411.232494] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2411.232497] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2411.232501] mmc1: sdhci: Cmd:       0x00000d1a | Max curr: 0x00000000
+[ 2411.232504] mmc1: sdhci: Resp[0]:   0x00400900 | Resp[1]:  0x00e9247f
+[ 2411.232508] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2411.232511] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2411.232514] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2411.232519] mmc1: sdhci: ============================================
+[ 2421.472451] mmc1: Timeout waiting for hardware cmd interrupt.
+[ 2421.472464] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2421.472467] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2421.472474] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2421.472477] mmc1: sdhci: Argument:  0x00010000 | Trn mode: 0x00000033
+[ 2421.472481] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2421.472485] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2421.472489] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2421.472492] mmc1: sdhci: Timeout:   0x0000000e | Int stat: 0x00018001
+[ 2421.472496] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2421.472500] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2421.472504] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2421.472508] mmc1: sdhci: Cmd:       0x00000d1a | Max curr: 0x00000000
+[ 2421.472511] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2421.472514] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2421.472518] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2421.472521] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2421.472525] mmc1: sdhci: ============================================
+[ 2431.712472] mmc1: Timeout waiting for hardware interrupt.
+[ 2431.712484] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2431.712488] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2431.712494] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2431.712498] mmc1: sdhci: Argument:  0x00000000 | Trn mode: 0x00000033
+[ 2431.712502] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2431.712505] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2431.712509] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2431.712512] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018002
+[ 2431.712516] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2431.712520] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2431.712523] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2431.712527] mmc1: sdhci: Cmd:       0x00000c1b | Max curr: 0x00000000
+[ 2431.712530] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2431.712534] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2431.712537] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2431.712540] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2431.712545] mmc1: sdhci: ============================================
+[ 2436.536435] rcu: INFO: rcu_preempt self-detected stall on CPU
+[ 2436.536453] rcu: 	1-....: (1 GPs behind) idle=60ac/1/0x4000000000000000 softirq=0/0 fqs=7127 rcuc=15002 jiffies(starved)
+[ 2436.536464] 	(t=15001 jiffies g=190333 q=3109256 ncpus=3)
+[ 2436.536473] CPU: 1 PID: 1249 Comm: kworker/u8:1 Tainted: G           O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[ 2436.536480] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[ 2436.536485] Workqueue: edac-poller edac_device_workq_function
+[ 2436.536502] pstate: 20000005 (nzCv daif -PAN -UAO -TCO -DIT -SSBS BTYPE=--)
+[ 2436.536509] pc : smp_call_function_single+0xc4/0x1d0
+[ 2436.536516] lr : cortex_arm64_edac_check+0xc8/0x150
+[ 2436.536522] sp : ffffffc00a81bcd0
+[ 2436.536524] x29: ffffffc00a81bcd0 x28: 0000000000000000 x27: 0000000000000000
+[ 2436.536532] x26: ffffffc009408000 x25: 0000000000000004 x24: 0000000000000030
+[ 2436.536540] x23: ffffffc00894fbd0 x22: ffffffc00954ddc8 x21: ffffffc00940b990
+[ 2436.536548] x20: ffffffc00940bb70 x19: ffffffc00a81bd00 x18: 000000304c03e47d
+[ 2436.536556] x17: 0000c34f9ef0f639 x16: 0000000000000006 x15: ffffffc008d3c398
+[ 2436.536563] x14: 0000000000000003 x13: 0000001a58d068f9 x12: 00000000000003c8
+[ 2436.536571] x11: 00000000000003d5 x10: ffffffc00a81bd80 x9 : ffffff880314967c
+[ 2436.536578] x8 : ffffffc00a81bd90 x7 : 000000000000000e x6 : ffffffc00894fbd0
+[ 2436.536586] x5 : 0000000000000000 x4 : ffffff887f82f948 x3 : 0000000000000001
+[ 2436.536593] x2 : 0000000000000000 x1 : ffffff887f82f940 x0 : 0000000000000003
+[ 2436.536601] Call trace:
+[ 2436.536604]  smp_call_function_single+0xc4/0x1d0
+[ 2436.536610]  cortex_arm64_edac_check+0xc8/0x150
+[ 2436.536615]  edac_device_workq_function+0x88/0xe0
+[ 2436.536621]  process_one_work+0x1d0/0x320
+[ 2436.536628]  worker_thread+0x13c/0x434
+[ 2436.536633]  kthread+0x124/0x12c
+[ 2436.536638]  ret_from_fork+0x10/0x20
+[ 2441.952446] mmc1: Timeout waiting for hardware interrupt.
+[ 2441.952458] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2441.952461] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2441.952468] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2441.952472] mmc1: sdhci: Argument:  0x00000000 | Trn mode: 0x00000033
+[ 2441.952476] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2441.952479] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2441.952483] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2441.952487] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018002
+[ 2441.952491] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2441.952494] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2441.952498] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2441.952502] mmc1: sdhci: Cmd:       0x00000c1b | Max curr: 0x00000000
+[ 2441.952505] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2441.952509] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2441.952513] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2441.952516] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2441.952520] mmc1: sdhci: ============================================
+[ 2452.196448] mmc1: Timeout waiting for hardware interrupt.
+[ 2452.196461] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2452.196464] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2452.196470] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2452.196474] mmc1: sdhci: Argument:  0x00000000 | Trn mode: 0x00000033
+[ 2452.196478] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2452.196481] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2452.196485] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2452.196489] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018002
+[ 2452.196492] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2452.196496] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2452.196499] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2452.196503] mmc1: sdhci: Cmd:       0x00000c1b | Max curr: 0x00000000
+[ 2452.196507] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2452.196511] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2452.196514] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2452.196517] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2452.196521] mmc1: sdhci: ============================================
+[ 2462.436470] mmc1: Timeout waiting for hardware interrupt.
+[ 2462.436482] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2462.436485] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2462.436492] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2462.436496] mmc1: sdhci: Argument:  0x00000000 | Trn mode: 0x00000033
+[ 2462.436499] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2462.436503] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2462.436506] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2462.436510] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018002
+[ 2462.436514] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2462.436517] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2462.436521] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2462.436524] mmc1: sdhci: Cmd:       0x00000c1b | Max curr: 0x00000000
+[ 2462.436528] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2462.436532] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2462.436535] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2462.436538] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2462.436542] mmc1: sdhci: ============================================
+[ 2472.676446] mmc1: Timeout waiting for hardware interrupt.
+[ 2472.676459] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2472.676462] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2472.676469] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2472.676473] mmc1: sdhci: Argument:  0x00000000 | Trn mode: 0x00000033
+[ 2472.676476] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2472.676480] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2472.676484] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2472.676487] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018002
+[ 2472.676491] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2472.676495] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2472.676499] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2472.676503] mmc1: sdhci: Cmd:       0x00000c1b | Max curr: 0x00000000
+[ 2472.676507] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2472.676510] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2472.676514] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2472.676517] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2472.676521] mmc1: sdhci: ============================================
+[ 2482.912446] mmc1: Timeout waiting for hardware interrupt.
+[ 2482.912458] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2482.912462] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2482.912469] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2482.912473] mmc1: sdhci: Argument:  0x00000000 | Trn mode: 0x00000033
+[ 2482.912476] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2482.912480] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2482.912484] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2482.912488] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018002
+[ 2482.912491] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2482.912495] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2482.912498] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2482.912502] mmc1: sdhci: Cmd:       0x00000c1b | Max curr: 0x00000000
+[ 2482.912506] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2482.912510] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2482.912513] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2482.912516] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2482.912521] mmc1: sdhci: ============================================
+[ 2493.152449] mmc1: Timeout waiting for hardware cmd interrupt.
+[ 2493.152461] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2493.152464] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2493.152471] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2493.152475] mmc1: sdhci: Argument:  0x00010000 | Trn mode: 0x00000033
+[ 2493.152479] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2493.152482] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2493.152486] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2493.152489] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018001
+[ 2493.152493] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2493.152496] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2493.152500] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2493.152504] mmc1: sdhci: Cmd:       0x00000d1a | Max curr: 0x00000000
+[ 2493.152508] mmc1: sdhci: Resp[0]:   0x00400900 | Resp[1]:  0x00e9247f
+[ 2493.152511] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2493.152515] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2493.152518] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2493.152522] mmc1: sdhci: ============================================
+[ 2503.392448] mmc1: Timeout waiting for hardware cmd interrupt.
+[ 2503.392461] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2503.392464] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2503.392471] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2503.392474] mmc1: sdhci: Argument:  0x00010000 | Trn mode: 0x00000033
+[ 2503.392478] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2503.392482] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2503.392486] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2503.392489] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018001
+[ 2503.392493] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2503.392497] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2503.392500] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2503.392504] mmc1: sdhci: Cmd:       0x00000d1a | Max curr: 0x00000000
+[ 2503.392508] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2503.392511] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2503.392515] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2503.392518] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2503.392522] mmc1: sdhci: ============================================
+[ 2513.636447] mmc1: Timeout waiting for hardware cmd interrupt.
+[ 2513.636460] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2513.636463] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2513.636470] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2513.636474] mmc1: sdhci: Argument:  0x00010000 | Trn mode: 0x00000033
+[ 2513.636478] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2513.636481] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2513.636485] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2513.636489] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018001
+[ 2513.636492] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2513.636496] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2513.636500] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2513.636503] mmc1: sdhci: Cmd:       0x00000d1a | Max curr: 0x00000000
+[ 2513.636507] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2513.636511] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2513.636514] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2513.636517] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2513.636522] mmc1: sdhci: ============================================
+[ 2523.876448] mmc1: Timeout waiting for hardware cmd interrupt.
+[ 2523.876459] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2523.876463] mmc1: sdhci: Sys addr:  0x00000008 | Version:  0x00001002
+[ 2523.876470] mmc1: sdhci: Blk size:  0x00007200 | Blk cnt:  0x00000000
+[ 2523.876473] mmc1: sdhci: Argument:  0x00010000 | Trn mode: 0x00000033
+[ 2523.876477] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x0000001f
+[ 2523.876481] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2523.876485] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x00000207
+[ 2523.876488] mmc1: sdhci: Timeout:   0x00000004 | Int stat: 0x00018001
+[ 2523.876492] mmc1: sdhci: Int enab:  0x03ff008b | Sig enab: 0x03ff008b
+[ 2523.876495] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2523.876499] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2523.876503] mmc1: sdhci: Cmd:       0x00000d1a | Max curr: 0x00000000
+[ 2523.876506] mmc1: sdhci: Resp[0]:   0x00000900 | Resp[1]:  0x00e9247f
+[ 2523.876510] mmc1: sdhci: Resp[2]:   0x325b5900 | Resp[3]:  0x00000900
+[ 2523.876514] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2523.876517] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x00000008022f420c
+[ 2523.876521] mmc1: sdhci: ============================================
+[ 2534.112448] mmc1: Timeout waiting for hardware cmd interrupt.
+[ 2534.112461] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2534.112464] mmc1: sdhci: Sys addr:  0x00000000 | Version:  0x00001002
+[ 2534.112471] mmc1: sdhci: Blk size:  0x00000000 | Blk cnt:  0x00000000
+[ 2534.112475] mmc1: sdhci: Argument:  0x00000000 | Trn mode: 0x00000000
+[ 2534.112479] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x00000001
+[ 2534.112482] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2534.112486] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x0000fa07
+[ 2534.112490] mmc1: sdhci: Timeout:   0x00000000 | Int stat: 0x00000001
+[ 2534.112493] mmc1: sdhci: Int enab:  0x00ff0083 | Sig enab: 0x00ff0083
+[ 2534.112497] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2534.112500] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2534.112504] mmc1: sdhci: Cmd:       0x00000000 | Max curr: 0x00000000
+[ 2534.112507] mmc1: sdhci: Resp[0]:   0x00000000 | Resp[1]:  0x00000000
+[ 2534.112511] mmc1: sdhci: Resp[2]:   0x00000000 | Resp[3]:  0x00000000
+[ 2534.112514] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2534.112517] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x0000000000000000
+[ 2534.112521] mmc1: sdhci: ============================================
+[ 2544.352464] mmc1: Timeout waiting for hardware cmd interrupt.
+[ 2544.352476] mmc1: sdhci: ============ SDHCI REGISTER DUMP ===========
+[ 2544.352480] mmc1: sdhci: Sys addr:  0x00000000 | Version:  0x00001002
+[ 2544.352487] mmc1: sdhci: Blk size:  0x00000000 | Blk cnt:  0x00000000
+[ 2544.352490] mmc1: sdhci: Argument:  0x000001aa | Trn mode: 0x00000000
+[ 2544.352494] mmc1: sdhci: Present:   0x01f70000 | Host ctl: 0x00000001
+[ 2544.352498] mmc1: sdhci: Power:     0x0000000f | Blk gap:  0x00000080
+[ 2544.352501] mmc1: sdhci: Wake-up:   0x00000000 | Clock:    0x0000fa07
+[ 2544.352505] mmc1: sdhci: Timeout:   0x00000000 | Int stat: 0x00000001
+[ 2544.352508] mmc1: sdhci: Int enab:  0x00ff0083 | Sig enab: 0x00ff0083
+[ 2544.352512] mmc1: sdhci: ACmd stat: 0x00000000 | Slot int: 0x00000001
+[ 2544.352516] mmc1: sdhci: Caps:      0x35ecc881 | Caps_1:   0x00002007
+[ 2544.352519] mmc1: sdhci: Cmd:       0x0000081a | Max curr: 0x00000000
+[ 2544.352523] mmc1: sdhci: Resp[0]:   0x000001aa | Resp[1]:  0x00000000
+[ 2544.352526] mmc1: sdhci: Resp[2]:   0x00000000 | Resp[3]:  0x00000000
+[ 2544.352529] mmc1: sdhci: Host ctl2: 0x00000000
+[ 2544.352532] mmc1: sdhci: ADMA Err:  0x00000000 | ADMA Ptr: 0x0000000000000000
+[ 2544.352536] mmc1: sdhci: ============================================

@@ -1,0 +1,3474 @@
+Created cell "inmate-demo-APU"
+[22718.905313] psci: CPU0 killed (polled 0 ms)
+[22718.910098] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70525 ns
+Closing cell "inmate-demo-APU"
+[22721.033156] Detected VIPT I-cache on CPU0
+[22721.033202] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22721.033254] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22721.037514] Destroyed Jailhouse cell "inmate-demo-APU"
+[22722.242413] external_script (19020): drop_caches: 3
+[22725.339477] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22725.351871] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70494 ns
+Closing cell "inmate-demo-APU"
+[22727.504998] Detected VIPT I-cache on CPU0
+[22727.505056] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22727.505110] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22727.505929] Destroyed Jailhouse cell "inmate-demo-APU"
+[22728.373977] external_script (19020): drop_caches: 3
+[22732.177569] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22732.189333] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70717 ns
+Closing cell "inmate-demo-APU"
+[22734.336894] Detected VIPT I-cache on CPU0
+[22734.336940] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22734.336990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22734.338931] Destroyed Jailhouse cell "inmate-demo-APU"
+[22735.899195] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22739.109532] psci: CPU0 killed (polled 0 ms)
+[22739.112964] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70666 ns
+Closing cell "inmate-demo-APU"
+[22741.350681] Detected VIPT I-cache on CPU0
+[22741.350728] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22741.350783] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22741.352912] Destroyed Jailhouse cell "inmate-demo-APU"
+[22742.025088] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22746.717192] psci: CPU0 killed (polled 0 ms)
+[22746.720569] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71101 ns
+Closing cell "inmate-demo-APU"
+[22749.468880] Detected VIPT I-cache on CPU0
+[22749.468942] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22749.468996] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22749.469507] Destroyed Jailhouse cell "inmate-demo-APU"
+[22750.727860] external_script (19020): drop_caches: 3
+[22753.713984] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22753.728092] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71070 ns
+Closing cell "inmate-demo-APU"
+[22755.848871] Detected VIPT I-cache on CPU0
+[22755.848918] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22755.848970] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22755.849372] Destroyed Jailhouse cell "inmate-demo-APU"
+[22756.209240] external_script (19020): drop_caches: 3
+[22760.309195] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22760.320931] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70515 ns
+Closing cell "inmate-demo-APU"
+[22762.508971] Detected VIPT I-cache on CPU0
+[22762.509044] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22762.509100] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22762.512928] Destroyed Jailhouse cell "inmate-demo-APU"
+[22764.350430] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22766.805039] psci: CPU0 killed (polled 0 ms)
+[22766.811092] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71414 ns
+Closing cell "inmate-demo-APU"
+[22768.969685] Detected VIPT I-cache on CPU0
+[22768.969735] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22768.969787] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22768.973383] Destroyed Jailhouse cell "inmate-demo-APU"
+[22770.379445] external_script (19020): drop_caches: 3
+[22773.622225] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22773.647725] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71141 ns
+Closing cell "inmate-demo-APU"
+[22775.868869] Detected VIPT I-cache on CPU0
+[22775.868917] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22775.868968] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22775.872345] Destroyed Jailhouse cell "inmate-demo-APU"
+[22776.586204] external_script (19020): drop_caches: 3
+[22779.993656] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22780.004970] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70535 ns
+Closing cell "inmate-demo-APU"
+[22782.526566] Detected VIPT I-cache on CPU0
+[22782.526615] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22782.526666] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22782.527326] Destroyed Jailhouse cell "inmate-demo-APU"
+[22784.514994] external_script (19020): drop_caches: 3
+[22787.685304] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22787.696233] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70717 ns
+Closing cell "inmate-demo-APU"
+[22789.926459] Detected VIPT I-cache on CPU0
+[22789.926507] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22789.926558] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22789.927133] Destroyed Jailhouse cell "inmate-demo-APU"
+[22790.380828] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22793.631107] psci: CPU0 killed (polled 0 ms)
+[22793.636019] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70565 ns
+Closing cell "inmate-demo-APU"
+[22795.768867] Detected VIPT I-cache on CPU0
+[22795.768916] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22795.768970] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22795.769764] Destroyed Jailhouse cell "inmate-demo-APU"
+[22796.265426] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22798.933688] psci: CPU0 killed (polled 0 ms)
+[22798.939508] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70939 ns
+Closing cell "inmate-demo-APU"
+[22801.080894] Detected VIPT I-cache on CPU0
+[22801.080938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22801.080989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22801.084354] Destroyed Jailhouse cell "inmate-demo-APU"
+[22801.608439] external_script (19020): drop_caches: 3
+[22804.305931] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22804.316101] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70888 ns
+Closing cell "inmate-demo-APU"
+[22806.456897] Detected VIPT I-cache on CPU0
+[22806.456945] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22806.456998] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22806.460020] Destroyed Jailhouse cell "inmate-demo-APU"
+[22806.712694] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22809.581171] psci: CPU0 killed (polled 0 ms)
+[22809.586836] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71060 ns
+Closing cell "inmate-demo-APU"
+[22811.740897] Detected VIPT I-cache on CPU0
+[22811.740942] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22811.740995] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22811.749556] Destroyed Jailhouse cell "inmate-demo-APU"
+[22811.990210] external_script (19020): drop_caches: 3
+[22814.861685] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22814.873794] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70909 ns
+Closing cell "inmate-demo-APU"
+[22817.048899] Detected VIPT I-cache on CPU0
+[22817.048943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22817.048995] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22817.049440] Destroyed Jailhouse cell "inmate-demo-APU"
+[22817.357055] external_script (19020): drop_caches: 3
+[22819.777408] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22819.794145] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70656 ns
+Closing cell "inmate-demo-APU"
+[22821.953317] Detected VIPT I-cache on CPU0
+[22821.953361] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22821.953412] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22821.954142] Destroyed Jailhouse cell "inmate-demo-APU"
+[22822.097801] external_script (19020): drop_caches: 3
+[22824.821605] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22824.835968] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70949 ns
+Closing cell "inmate-demo-APU"
+[22826.976881] Detected VIPT I-cache on CPU0
+[22826.976925] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22826.976976] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22826.980612] Destroyed Jailhouse cell "inmate-demo-APU"
+[22827.047567] external_script (19020): drop_caches: 3
+[22829.777557] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22829.790220] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70737 ns
+Closing cell "inmate-demo-APU"
+[22831.972907] Detected VIPT I-cache on CPU0
+[22831.972969] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22831.973021] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22831.973668] Destroyed Jailhouse cell "inmate-demo-APU"
+[22832.294830] external_script (19020): drop_caches: 3
+[22834.477569] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22834.491578] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70737 ns
+Closing cell "inmate-demo-APU"
+[22836.640874] Detected VIPT I-cache on CPU0
+[22836.640919] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22836.640970] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22836.641365] Destroyed Jailhouse cell "inmate-demo-APU"
+[22836.719580] external_script (19020): drop_caches: 3
+[22838.949578] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22838.963991] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70474 ns
+Closing cell "inmate-demo-APU"
+[22841.092870] Detected VIPT I-cache on CPU0
+[22841.092916] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22841.092968] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22841.093810] Destroyed Jailhouse cell "inmate-demo-APU"
+[22841.170167] external_script (19020): drop_caches: 3
+[22843.953354] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22843.968987] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71515 ns
+Closing cell "inmate-demo-APU"
+[22846.108883] Detected VIPT I-cache on CPU0
+[22846.108928] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22846.108980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22846.109387] Destroyed Jailhouse cell "inmate-demo-APU"
+[22846.167290] external_script (19020): drop_caches: 3
+[22848.410363] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22848.422827] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71010 ns
+Closing cell "inmate-demo-APU"
+[22850.580887] Detected VIPT I-cache on CPU0
+[22850.580934] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22850.580985] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22850.581519] Destroyed Jailhouse cell "inmate-demo-APU"
+[22850.874812] external_script (19020): drop_caches: 3
+[22853.097537] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22853.111005] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70606 ns
+Closing cell "inmate-demo-APU"
+[22855.276876] Detected VIPT I-cache on CPU0
+[22855.276922] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22855.276974] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22855.284790] Destroyed Jailhouse cell "inmate-demo-APU"
+[22855.361166] external_script (19020): drop_caches: 3
+[22857.565824] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22857.581197] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70767 ns
+Closing cell "inmate-demo-APU"
+[22859.712889] Detected VIPT I-cache on CPU0
+[22859.712936] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22859.712987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22859.713622] Destroyed Jailhouse cell "inmate-demo-APU"
+[22859.772282] external_script (19020): drop_caches: 3
+[22862.069481] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22862.085862] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70606 ns
+Closing cell "inmate-demo-APU"
+[22864.232878] Detected VIPT I-cache on CPU0
+[22864.232925] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22864.232976] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22864.235667] Destroyed Jailhouse cell "inmate-demo-APU"
+[22864.296634] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22866.537294] psci: CPU0 killed (polled 0 ms)
+[22866.540766] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70676 ns
+Closing cell "inmate-demo-APU"
+[22868.668895] Detected VIPT I-cache on CPU0
+[22868.668952] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22868.669004] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22868.669893] Destroyed Jailhouse cell "inmate-demo-APU"
+[22868.949461] external_script (19020): drop_caches: 3
+[22871.169302] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22871.181551] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70565 ns
+Closing cell "inmate-demo-APU"
+[22873.316900] Detected VIPT I-cache on CPU0
+[22873.316946] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22873.316998] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22873.320540] Destroyed Jailhouse cell "inmate-demo-APU"
+[22873.397214] external_script (19020): drop_caches: 3
+[22875.606255] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22875.616353] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70757 ns
+Closing cell "inmate-demo-APU"
+[22877.752890] Detected VIPT I-cache on CPU0
+[22877.752935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22877.752986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22877.755922] Destroyed Jailhouse cell "inmate-demo-APU"
+[22878.035628] external_script (19020): drop_caches: 3
+[22880.753480] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22880.770447] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70747 ns
+Closing cell "inmate-demo-APU"
+[22882.924878] Detected VIPT I-cache on CPU0
+[22882.924925] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22882.924978] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22882.925460] Destroyed Jailhouse cell "inmate-demo-APU"
+[22883.130109] external_script (19020): drop_caches: 3
+[22885.341158] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22885.358859] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70585 ns
+Closing cell "inmate-demo-APU"
+[22887.492893] Detected VIPT I-cache on CPU0
+[22887.492939] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22887.492991] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22887.496620] Destroyed Jailhouse cell "inmate-demo-APU"
+[22887.561169] external_script (19020): drop_caches: 3
+[22889.789551] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22889.800002] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71080 ns
+Closing cell "inmate-demo-APU"
+[22891.942721] Detected VIPT I-cache on CPU0
+[22891.942769] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22891.942821] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22891.953030] Destroyed Jailhouse cell "inmate-demo-APU"
+[22892.202305] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22894.397535] psci: CPU0 killed (polled 0 ms)
+[22894.401851] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70818 ns
+Closing cell "inmate-demo-APU"
+[22896.556872] Detected VIPT I-cache on CPU0
+[22896.556919] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22896.556970] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22896.559855] Destroyed Jailhouse cell "inmate-demo-APU"
+[22896.701366] external_script (19020): drop_caches: 3
+[22898.965257] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22898.976410] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70585 ns
+Closing cell "inmate-demo-APU"
+[22901.124883] Detected VIPT I-cache on CPU0
+[22901.124930] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22901.124981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22901.128694] Destroyed Jailhouse cell "inmate-demo-APU"
+[22901.197257] external_script (19020): drop_caches: 3
+[22903.397225] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22903.410235] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70646 ns
+Closing cell "inmate-demo-APU"
+[22905.536882] Detected VIPT I-cache on CPU0
+[22905.536930] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22905.536983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22905.541338] Destroyed Jailhouse cell "inmate-demo-APU"
+[22905.787008] external_script (19020): drop_caches: 3
+[22907.997199] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22908.014862] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70888 ns
+Closing cell "inmate-demo-APU"
+[22910.140874] Detected VIPT I-cache on CPU0
+[22910.140920] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22910.140971] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22910.141412] Destroyed Jailhouse cell "inmate-demo-APU"
+[22910.205720] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22912.417023] psci: CPU0 killed (polled 0 ms)
+[22912.420400] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70505 ns
+Closing cell "inmate-demo-APU"
+[22914.560890] Detected VIPT I-cache on CPU0
+[22914.560935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22914.560987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22914.565401] Destroyed Jailhouse cell "inmate-demo-APU"
+[22914.858876] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22917.153678] psci: CPU0 killed (polled 0 ms)
+[22917.158023] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  71151 ns
+Closing cell "inmate-demo-APU"
+[22919.276872] Detected VIPT I-cache on CPU0
+[22919.276919] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22919.276971] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22919.280077] Destroyed Jailhouse cell "inmate-demo-APU"
+[22919.341635] external_script (19020): drop_caches: 3
+[22921.546369] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22921.562184] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70545 ns
+Closing cell "inmate-demo-APU"
+[22923.696883] Detected VIPT I-cache on CPU0
+[22923.696929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22923.696980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22923.698011] Destroyed Jailhouse cell "inmate-demo-APU"
+[22923.773799] external_script (19020): drop_caches: 3
+[22926.001500] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22926.016595] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_dec execution time:  70505 ns
+Closing cell "inmate-demo-APU"
+[22928.384876] Detected VIPT I-cache on CPU0
+[22928.384922] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22928.384973] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22928.387816] Destroyed Jailhouse cell "inmate-demo-APU"
+[22928.543989] external_script (19020): drop_caches: 3
+[22930.729477] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22930.741456] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85262 ns
+Closing cell "inmate-demo-APU"
+[22932.900908] Detected VIPT I-cache on CPU0
+[22932.900969] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22932.901020] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22932.904165] Destroyed Jailhouse cell "inmate-demo-APU"
+[22933.197318] external_script (19020): drop_caches: 3
+[22935.409882] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22935.426713] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85444 ns
+Closing cell "inmate-demo-APU"
+[22937.560871] Detected VIPT I-cache on CPU0
+[22937.560920] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22937.560972] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22937.561435] Destroyed Jailhouse cell "inmate-demo-APU"
+[22937.619880] external_script (19020): drop_caches: 3
+[22940.033342] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22940.046170] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85060 ns
+Closing cell "inmate-demo-APU"
+[22942.176876] Detected VIPT I-cache on CPU0
+[22942.176921] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22942.176973] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22942.177389] Destroyed Jailhouse cell "inmate-demo-APU"
+[22942.237109] external_script (19020): drop_caches: 3
+[22944.489617] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22944.501966] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85040 ns
+Closing cell "inmate-demo-APU"
+[22946.644907] Detected VIPT I-cache on CPU0
+[22946.644956] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22946.645009] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22946.647788] Destroyed Jailhouse cell "inmate-demo-APU"
+[22946.734247] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22949.018666] psci: CPU0 killed (polled 0 ms)
+[22949.023938] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85474 ns
+Closing cell "inmate-demo-APU"
+[22951.160875] Detected VIPT I-cache on CPU0
+[22951.160922] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22951.160974] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22951.161462] Destroyed Jailhouse cell "inmate-demo-APU"
+[22951.447341] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22953.708997] psci: CPU0 killed (polled 0 ms)
+[22953.714969] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84151 ns
+Closing cell "inmate-demo-APU"
+[22955.844900] Detected VIPT I-cache on CPU0
+[22955.844948] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22955.845000] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22955.847787] Destroyed Jailhouse cell "inmate-demo-APU"
+[22955.934123] external_script (19020): drop_caches: 3
+[22958.117850] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22958.130847] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85040 ns
+Closing cell "inmate-demo-APU"
+[22960.264881] Detected VIPT I-cache on CPU0
+[22960.264928] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22960.264979] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22960.267578] Destroyed Jailhouse cell "inmate-demo-APU"
+[22960.332246] external_script (19020): drop_caches: 3
+[22962.569487] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22962.586649] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85050 ns
+Closing cell "inmate-demo-APU"
+[22964.792883] Detected VIPT I-cache on CPU0
+[22964.792930] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22964.792981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22964.793574] Destroyed Jailhouse cell "inmate-demo-APU"
+[22965.073504] external_script (19020): drop_caches: 3
+[22967.282371] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22967.292191] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84646 ns
+Closing cell "inmate-demo-APU"
+[22969.432886] Detected VIPT I-cache on CPU0
+[22969.432931] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22969.432982] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22969.437274] Destroyed Jailhouse cell "inmate-demo-APU"
+[22969.513555] external_script (19020): drop_caches: 3
+[22971.785202] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22971.796857] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85090 ns
+Closing cell "inmate-demo-APU"
+[22973.940883] Detected VIPT I-cache on CPU0
+[22973.940930] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22973.940981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22973.941580] Destroyed Jailhouse cell "inmate-demo-APU"
+[22974.008356] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22976.245575] psci: CPU0 killed (polled 0 ms)
+[22976.250715] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85131 ns
+Closing cell "inmate-demo-APU"
+[22978.384875] Detected VIPT I-cache on CPU0
+[22978.384922] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22978.384973] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22978.389022] Destroyed Jailhouse cell "inmate-demo-APU"
+[22978.449145] external_script (19020): drop_caches: 3
+[22980.653016] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22980.664659] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85080 ns
+Closing cell "inmate-demo-APU"
+[22982.784881] Detected VIPT I-cache on CPU0
+[22982.784928] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22982.784979] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22982.788188] Destroyed Jailhouse cell "inmate-demo-APU"
+[22982.859438] external_script (19020): drop_caches: 3
+[22985.065592] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22985.084691] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85353 ns
+Closing cell "inmate-demo-APU"
+[22987.216872] Detected VIPT I-cache on CPU0
+[22987.216932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22987.216983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22987.219753] Destroyed Jailhouse cell "inmate-demo-APU"
+[22987.530330] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[22989.741518] psci: CPU0 killed (polled 0 ms)
+[22989.747392] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85313 ns
+Closing cell "inmate-demo-APU"
+[22991.864881] Detected VIPT I-cache on CPU0
+[22991.864929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22991.864980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22991.865670] Destroyed Jailhouse cell "inmate-demo-APU"
+[22991.967193] external_script (19020): drop_caches: 3
+[22994.205739] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22994.218312] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85505 ns
+Closing cell "inmate-demo-APU"
+[22996.352881] Detected VIPT I-cache on CPU0
+[22996.352926] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[22996.352977] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[22996.355955] Destroyed Jailhouse cell "inmate-demo-APU"
+[22996.637263] external_script (19020): drop_caches: 3
+[22998.861198] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[22998.873687] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  83999 ns
+Closing cell "inmate-demo-APU"
+[23000.988907] Detected VIPT I-cache on CPU0
+[23000.988951] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23000.989004] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23000.989700] Destroyed Jailhouse cell "inmate-demo-APU"
+[23001.055806] external_script (19020): drop_caches: 3
+[23003.302220] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23003.324191] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85272 ns
+Closing cell "inmate-demo-APU"
+[23005.452882] Detected VIPT I-cache on CPU0
+[23005.452930] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23005.452980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23005.460807] Destroyed Jailhouse cell "inmate-demo-APU"
+[23005.519199] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23007.701424] psci: CPU0 killed (polled 0 ms)
+[23007.715374] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  86464 ns
+Closing cell "inmate-demo-APU"
+[23009.872898] Detected VIPT I-cache on CPU0
+[23009.872957] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23009.873008] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23009.873638] Destroyed Jailhouse cell "inmate-demo-APU"
+[23010.181457] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23012.517127] psci: CPU0 killed (polled 0 ms)
+[23012.521007] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85232 ns
+Closing cell "inmate-demo-APU"
+[23014.672893] Detected VIPT I-cache on CPU0
+[23014.672939] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23014.672990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23014.674377] Destroyed Jailhouse cell "inmate-demo-APU"
+[23014.743638] external_script (19020): drop_caches: 3
+[23016.973383] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23016.987559] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85060 ns
+Closing cell "inmate-demo-APU"
+[23019.108881] Detected VIPT I-cache on CPU0
+[23019.108928] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23019.108980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23019.109428] Destroyed Jailhouse cell "inmate-demo-APU"
+[23019.181546] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23021.409286] psci: CPU0 killed (polled 0 ms)
+[23021.412667] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84939 ns
+Closing cell "inmate-demo-APU"
+[23023.540906] Detected VIPT I-cache on CPU0
+[23023.540953] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23023.541005] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23023.544941] Destroyed Jailhouse cell "inmate-demo-APU"
+[23023.600480] external_script (19020): drop_caches: 3
+[23025.821712] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23025.835091] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84858 ns
+Closing cell "inmate-demo-APU"
+[23027.992905] Detected VIPT I-cache on CPU0
+[23027.992954] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23027.993006] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23027.996468] Destroyed Jailhouse cell "inmate-demo-APU"
+[23028.383876] external_script (19020): drop_caches: 3
+[23030.781954] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23030.792771] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85181 ns
+Closing cell "inmate-demo-APU"
+[23032.920894] Detected VIPT I-cache on CPU0
+[23032.920941] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23032.920992] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23032.921621] Destroyed Jailhouse cell "inmate-demo-APU"
+[23033.000911] external_script (19020): drop_caches: 3
+[23035.217416] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23035.229029] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85747 ns
+Closing cell "inmate-demo-APU"
+[23037.368883] Detected VIPT I-cache on CPU0
+[23037.368929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23037.368981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23037.376027] Destroyed Jailhouse cell "inmate-demo-APU"
+[23037.587373] external_script (19020): drop_caches: 3
+[23039.821970] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23039.842909] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85080 ns
+Closing cell "inmate-demo-APU"
+[23041.996922] Detected VIPT I-cache on CPU0
+[23041.996985] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23041.997036] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23041.997545] Destroyed Jailhouse cell "inmate-demo-APU"
+[23042.307502] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23044.529608] psci: CPU0 killed (polled 0 ms)
+[23044.535963] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85484 ns
+Closing cell "inmate-demo-APU"
+[23046.680877] Detected VIPT I-cache on CPU0
+[23046.680924] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23046.680975] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23046.684113] Destroyed Jailhouse cell "inmate-demo-APU"
+[23046.757869] external_script (19020): drop_caches: 3
+[23049.105019] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23049.119321] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85181 ns
+Closing cell "inmate-demo-APU"
+[23051.256922] Detected VIPT I-cache on CPU0
+[23051.256970] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23051.257026] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23051.257453] Destroyed Jailhouse cell "inmate-demo-APU"
+[23051.511264] external_script (19020): drop_caches: 3
+[23053.817551] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23053.828156] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84999 ns
+Closing cell "inmate-demo-APU"
+[23055.968878] Detected VIPT I-cache on CPU0
+[23055.968925] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23055.968976] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23055.973467] Destroyed Jailhouse cell "inmate-demo-APU"
+[23056.086141] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23058.329156] psci: CPU0 killed (polled 0 ms)
+[23058.333381] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85393 ns
+Closing cell "inmate-demo-APU"
+[23060.460880] Detected VIPT I-cache on CPU0
+[23060.460925] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23060.460976] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23060.461442] Destroyed Jailhouse cell "inmate-demo-APU"
+[23060.525762] external_script (19020): drop_caches: 3
+[23062.753430] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23062.768819] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  83666 ns
+Closing cell "inmate-demo-APU"
+[23064.900879] Detected VIPT I-cache on CPU0
+[23064.900927] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23064.900979] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23064.901350] Destroyed Jailhouse cell "inmate-demo-APU"
+[23064.976034] external_script (19020): drop_caches: 3
+[23067.213712] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23067.225003] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85535 ns
+Closing cell "inmate-demo-APU"
+[23069.376880] Detected VIPT I-cache on CPU0
+[23069.376939] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23069.376989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23069.380164] Destroyed Jailhouse cell "inmate-demo-APU"
+[23069.679737] external_script (19020): drop_caches: 3
+[23071.921192] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23071.933891] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85424 ns
+Closing cell "inmate-demo-APU"
+[23074.084894] Detected VIPT I-cache on CPU0
+[23074.084939] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23074.084990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23074.086916] Destroyed Jailhouse cell "inmate-demo-APU"
+[23074.166942] external_script (19020): drop_caches: 3
+[23076.377690] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23076.387792] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  86151 ns
+Closing cell "inmate-demo-APU"
+[23078.544873] Detected VIPT I-cache on CPU0
+[23078.544920] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23078.544971] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23078.550051] Destroyed Jailhouse cell "inmate-demo-APU"
+[23078.609502] external_script (19020): drop_caches: 3
+[23080.825483] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23080.838522] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  86020 ns
+Closing cell "inmate-demo-APU"
+[23082.988882] Detected VIPT I-cache on CPU0
+[23082.988941] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23082.988992] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23082.991678] Destroyed Jailhouse cell "inmate-demo-APU"
+[23083.320879] external_script (19020): drop_caches: 3
+[23085.513322] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23085.526595] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85222 ns
+Closing cell "inmate-demo-APU"
+[23087.648887] Detected VIPT I-cache on CPU0
+[23087.648935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23087.648986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23087.652295] Destroyed Jailhouse cell "inmate-demo-APU"
+[23087.731967] external_script (19020): drop_caches: 3
+[23089.957269] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23089.972364] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85626 ns
+Closing cell "inmate-demo-APU"
+[23092.112874] Detected VIPT I-cache on CPU0
+[23092.112923] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23092.112973] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23092.114243] Destroyed Jailhouse cell "inmate-demo-APU"
+[23092.187820] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23094.449170] psci: CPU0 killed (polled 0 ms)
+[23094.452665] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84606 ns
+Closing cell "inmate-demo-APU"
+[23096.600882] Detected VIPT I-cache on CPU0
+[23096.600928] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23096.600980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23096.601368] Destroyed Jailhouse cell "inmate-demo-APU"
+[23096.700392] external_script (19020): drop_caches: 3
+[23098.973769] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23098.989274] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  85202 ns
+Closing cell "inmate-demo-APU"
+[23101.124889] Detected VIPT I-cache on CPU0
+[23101.124935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23101.124986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23101.127710] Destroyed Jailhouse cell "inmate-demo-APU"
+[23101.412455] external_script (19020): drop_caches: 3
+[23103.713470] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23103.727901] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  84575 ns
+Closing cell "inmate-demo-APU"
+[23105.936877] Detected VIPT I-cache on CPU0
+[23105.936922] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23105.936974] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23105.939981] Destroyed Jailhouse cell "inmate-demo-APU"
+[23106.007670] external_script (19020): drop_caches: 3
+[23108.237372] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23108.249239] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark adpcm_enc execution time:  83868 ns
+Closing cell "inmate-demo-APU"
+[23110.392893] Detected VIPT I-cache on CPU0
+[23110.392941] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23110.392992] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23110.400038] Destroyed Jailhouse cell "inmate-demo-APU"
+[23110.470706] external_script (19020): drop_caches: 3
+[23112.693455] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23112.704110] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64524707 ns
+Closing cell "inmate-demo-APU"
+[23114.840886] Detected VIPT I-cache on CPU0
+[23114.840933] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23114.840984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23114.843705] Destroyed Jailhouse cell "inmate-demo-APU"
+[23114.921830] external_script (19020): drop_caches: 3
+[23117.149796] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23117.174944] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64380393 ns
+Closing cell "inmate-demo-APU"
+[23119.292875] Detected VIPT I-cache on CPU0
+[23119.292933] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23119.292986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23119.293634] Destroyed Jailhouse cell "inmate-demo-APU"
+[23119.582260] external_script (19020): drop_caches: 3
+[23121.813360] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23121.829509] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64347282 ns
+Closing cell "inmate-demo-APU"
+[23123.976875] Detected VIPT I-cache on CPU0
+[23123.976923] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23123.976974] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23123.977538] Destroyed Jailhouse cell "inmate-demo-APU"
+[23124.044455] external_script (19020): drop_caches: 3
+[23126.653702] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23126.667400] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64313535 ns
+Closing cell "inmate-demo-APU"
+[23128.800911] Detected VIPT I-cache on CPU0
+[23128.800958] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23128.801010] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23128.801479] Destroyed Jailhouse cell "inmate-demo-APU"
+[23128.875699] external_script (19020): drop_caches: 3
+[23131.094727] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23131.105890] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64294424 ns
+Closing cell "inmate-demo-APU"
+[23133.240882] Detected VIPT I-cache on CPU0
+[23133.240943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23133.240997] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23133.244483] Destroyed Jailhouse cell "inmate-demo-APU"
+[23133.550480] external_script (19020): drop_caches: 3
+[23135.761402] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23135.778658] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64448777 ns
+Closing cell "inmate-demo-APU"
+[23137.928954] Detected VIPT I-cache on CPU0
+[23137.929000] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23137.929049] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23137.932108] Destroyed Jailhouse cell "inmate-demo-APU"
+[23137.987207] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23140.209353] psci: CPU0 killed (polled 0 ms)
+[23140.215382] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64410272 ns
+Closing cell "inmate-demo-APU"
+[23142.344877] Detected VIPT I-cache on CPU0
+[23142.344925] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23142.344976] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23142.347796] Destroyed Jailhouse cell "inmate-demo-APU"
+[23142.410127] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23144.717006] psci: CPU0 killed (polled 0 ms)
+[23144.720323] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64504070 ns
+Closing cell "inmate-demo-APU"
+[23146.848917] Detected VIPT I-cache on CPU0
+[23146.848962] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23146.849013] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23146.849451] Destroyed Jailhouse cell "inmate-demo-APU"
+[23146.917796] external_script (19020): drop_caches: 3
+[23149.141577] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23149.156796] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64411545 ns
+Closing cell "inmate-demo-APU"
+[23151.296896] Detected VIPT I-cache on CPU0
+[23151.296942] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23151.296993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23151.299832] Destroyed Jailhouse cell "inmate-demo-APU"
+[23151.586903] external_script (19020): drop_caches: 3
+[23153.821474] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23153.832262] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64382929 ns
+Closing cell "inmate-demo-APU"
+[23155.968880] Detected VIPT I-cache on CPU0
+[23155.968927] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23155.968977] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23155.977451] Destroyed Jailhouse cell "inmate-demo-APU"
+[23156.053939] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23158.277593] psci: CPU0 killed (polled 0 ms)
+[23158.283019] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64362383 ns
+Closing cell "inmate-demo-APU"
+[23160.417140] Detected VIPT I-cache on CPU0
+[23160.417187] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23160.417239] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23160.417840] Destroyed Jailhouse cell "inmate-demo-APU"
+[23160.487781] external_script (19020): drop_caches: 3
+[23162.945477] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23162.956361] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64290060 ns
+Closing cell "inmate-demo-APU"
+[23165.212883] Detected VIPT I-cache on CPU0
+[23165.212928] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23165.212980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23165.213464] Destroyed Jailhouse cell "inmate-demo-APU"
+[23165.302940] external_script (19020): drop_caches: 3
+[23167.513422] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23167.526006] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64455212 ns
+Closing cell "inmate-demo-APU"
+[23169.696900] Detected VIPT I-cache on CPU0
+[23169.696945] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23169.696996] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23169.700083] Destroyed Jailhouse cell "inmate-demo-APU"
+[23169.999704] external_script (19020): drop_caches: 3
+[23172.205361] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23172.217141] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64381222 ns
+Closing cell "inmate-demo-APU"
+[23174.340895] Detected VIPT I-cache on CPU0
+[23174.340940] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23174.340991] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23174.344504] Destroyed Jailhouse cell "inmate-demo-APU"
+[23174.415267] external_script (19020): drop_caches: 3
+[23176.642283] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23176.652332] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64428383 ns
+Closing cell "inmate-demo-APU"
+[23178.780874] Detected VIPT I-cache on CPU0
+[23178.780922] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23178.780973] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23178.782873] Destroyed Jailhouse cell "inmate-demo-APU"
+[23178.839621] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23181.233524] psci: CPU0 killed (polled 0 ms)
+[23181.241402] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64440202 ns
+Closing cell "inmate-demo-APU"
+[23183.384891] Detected VIPT I-cache on CPU0
+[23183.384938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23183.384988] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23183.387045] Destroyed Jailhouse cell "inmate-demo-APU"
+[23183.458249] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23185.673305] psci: CPU0 killed (polled 0 ms)
+[23185.682041] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64271404 ns
+Closing cell "inmate-demo-APU"
+[23187.834764] Detected VIPT I-cache on CPU0
+[23187.834811] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23187.834862] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23187.836140] Destroyed Jailhouse cell "inmate-demo-APU"
+[23187.902780] external_script (19020): drop_caches: 3
+[23190.105336] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23190.116397] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64381242 ns
+Closing cell "inmate-demo-APU"
+[23192.252882] Detected VIPT I-cache on CPU0
+[23192.252939] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23192.252989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23192.255973] Destroyed Jailhouse cell "inmate-demo-APU"
+[23192.573477] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23194.817010] psci: CPU0 killed (polled 0 ms)
+[23194.820683] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64390101 ns
+Closing cell "inmate-demo-APU"
+[23196.964878] Detected VIPT I-cache on CPU0
+[23196.964924] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23196.964975] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23196.965744] Destroyed Jailhouse cell "inmate-demo-APU"
+[23197.025000] external_script (19020): drop_caches: 3
+[23199.661231] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23199.674820] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64335393 ns
+Closing cell "inmate-demo-APU"
+[23201.952886] Detected VIPT I-cache on CPU0
+[23201.952933] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23201.952984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23201.956388] Destroyed Jailhouse cell "inmate-demo-APU"
+[23202.032015] external_script (19020): drop_caches: 3
+[23204.253739] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23204.264283] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64343626 ns
+Closing cell "inmate-demo-APU"
+[23206.396881] Detected VIPT I-cache on CPU0
+[23206.396926] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23206.396976] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23206.397445] Destroyed Jailhouse cell "inmate-demo-APU"
+[23206.670819] external_script (19020): drop_caches: 3
+[23208.873290] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23208.884414] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64376242 ns
+Closing cell "inmate-demo-APU"
+[23210.996881] Detected VIPT I-cache on CPU0
+[23210.996927] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23210.996978] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23210.997445] Destroyed Jailhouse cell "inmate-demo-APU"
+[23211.075965] external_script (19020): drop_caches: 3
+[23213.293561] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23213.304557] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64506969 ns
+Closing cell "inmate-demo-APU"
+[23215.452881] Detected VIPT I-cache on CPU0
+[23215.452927] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23215.452978] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23215.453538] Destroyed Jailhouse cell "inmate-demo-APU"
+[23215.523966] external_script (19020): drop_caches: 3
+[23217.810025] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23217.825872] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64294161 ns
+Closing cell "inmate-demo-APU"
+[23219.996886] Detected VIPT I-cache on CPU0
+[23219.996933] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23219.996983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23219.997539] Destroyed Jailhouse cell "inmate-demo-APU"
+[23220.051015] external_script (19020): drop_caches: 3
+[23222.274470] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23222.285091] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64300262 ns
+Closing cell "inmate-demo-APU"
+[23224.440882] Detected VIPT I-cache on CPU0
+[23224.440929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23224.440980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23224.441689] Destroyed Jailhouse cell "inmate-demo-APU"
+[23224.718683] external_script (19020): drop_caches: 3
+[23226.937778] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23226.952196] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64294676 ns
+Closing cell "inmate-demo-APU"
+[23229.096889] Detected VIPT I-cache on CPU0
+[23229.096938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23229.096989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23229.101181] Destroyed Jailhouse cell "inmate-demo-APU"
+[23229.172426] external_script (19020): drop_caches: 3
+[23231.409244] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23231.423217] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64438333 ns
+Closing cell "inmate-demo-APU"
+[23233.572885] Detected VIPT I-cache on CPU0
+[23233.572931] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23233.572982] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23233.573697] Destroyed Jailhouse cell "inmate-demo-APU"
+[23233.637614] external_script (19020): drop_caches: 3
+[23235.878612] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23235.896556] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64382484 ns
+Closing cell "inmate-demo-APU"
+[23238.048880] Detected VIPT I-cache on CPU0
+[23238.048927] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23238.048978] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23238.049625] Destroyed Jailhouse cell "inmate-demo-APU"
+[23238.343935] external_script (19020): drop_caches: 3
+[23240.625529] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23240.635827] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64347323 ns
+Closing cell "inmate-demo-APU"
+[23242.776909] Detected VIPT I-cache on CPU0
+[23242.776955] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23242.777005] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23242.777377] Destroyed Jailhouse cell "inmate-demo-APU"
+[23242.856382] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23245.081140] psci: CPU0 killed (polled 0 ms)
+[23245.086794] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64529363 ns
+Closing cell "inmate-demo-APU"
+[23247.228883] Detected VIPT I-cache on CPU0
+[23247.228932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23247.228983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23247.232124] Destroyed Jailhouse cell "inmate-demo-APU"
+[23247.290523] external_script (19020): drop_caches: 3
+[23249.493974] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23249.507828] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64390212 ns
+Closing cell "inmate-demo-APU"
+[23251.648902] Detected VIPT I-cache on CPU0
+[23251.648949] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23251.649000] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23251.653844] Destroyed Jailhouse cell "inmate-demo-APU"
+[23251.721117] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23253.957718] psci: CPU0 killed (polled 0 ms)
+[23253.963322] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64361999 ns
+Closing cell "inmate-demo-APU"
+[23256.152879] Detected VIPT I-cache on CPU0
+[23256.152925] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23256.152975] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23256.154682] Destroyed Jailhouse cell "inmate-demo-APU"
+[23256.589707] external_script (19020): drop_caches: 3
+[23258.805307] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23258.817573] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64342383 ns
+Closing cell "inmate-demo-APU"
+[23260.964892] Detected VIPT I-cache on CPU0
+[23260.964939] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23260.964990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23260.966471] Destroyed Jailhouse cell "inmate-demo-APU"
+[23261.037286] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23263.235167] psci: CPU0 killed (polled 0 ms)
+[23263.238516] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64388474 ns
+Closing cell "inmate-demo-APU"
+[23265.384930] Detected VIPT I-cache on CPU0
+[23265.384981] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23265.385034] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23265.388864] Destroyed Jailhouse cell "inmate-demo-APU"
+[23265.688702] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23267.921399] psci: CPU0 killed (polled 0 ms)
+[23267.927140] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64269212 ns
+Closing cell "inmate-demo-APU"
+[23270.064880] Detected VIPT I-cache on CPU0
+[23270.064927] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23270.064977] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23270.071418] Destroyed Jailhouse cell "inmate-demo-APU"
+[23270.154913] external_script (19020): drop_caches: 3
+[23272.353364] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23272.364231] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64324727 ns
+Closing cell "inmate-demo-APU"
+[23274.484877] Detected VIPT I-cache on CPU0
+[23274.484925] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23274.484975] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23274.488840] Destroyed Jailhouse cell "inmate-demo-APU"
+[23274.583699] external_script (19020): drop_caches: 3
+[23276.857624] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23276.869181] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64411070 ns
+Closing cell "inmate-demo-APU"
+[23279.004890] Detected VIPT I-cache on CPU0
+[23279.004935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23279.004985] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23279.008122] Destroyed Jailhouse cell "inmate-demo-APU"
+[23279.281419] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23281.517533] psci: CPU0 killed (polled 0 ms)
+[23281.523243] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64392737 ns
+Closing cell "inmate-demo-APU"
+[23283.672872] Detected VIPT I-cache on CPU0
+[23283.672923] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23283.672974] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23283.673347] Destroyed Jailhouse cell "inmate-demo-APU"
+[23283.763623] external_script (19020): drop_caches: 3
+[23285.977464] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23285.994066] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64461494 ns
+Closing cell "inmate-demo-APU"
+[23288.132907] Detected VIPT I-cache on CPU0
+[23288.132954] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23288.133004] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23288.133653] Destroyed Jailhouse cell "inmate-demo-APU"
+[23288.197710] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23290.413019] psci: CPU0 killed (polled 0 ms)
+[23290.417151] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark ammunition execution time: 64331282 ns
+Closing cell "inmate-demo-APU"
+[23292.568887] Detected VIPT I-cache on CPU0
+[23292.568948] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23292.568998] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23292.575667] Destroyed Jailhouse cell "inmate-demo-APU"
+[23292.852959] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23295.165405] psci: CPU0 killed (polled 0 ms)
+[23295.171105] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1635303 ns
+Closing cell "inmate-demo-APU"
+[23297.316887] Detected VIPT I-cache on CPU0
+[23297.316935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23297.316987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23297.317440] Destroyed Jailhouse cell "inmate-demo-APU"
+[23297.414049] external_script (19020): drop_caches: 3
+[23299.645325] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23299.657809] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1640797 ns
+Closing cell "inmate-demo-APU"
+[23301.808914] Detected VIPT I-cache on CPU0
+[23301.808964] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23301.809018] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23301.809471] Destroyed Jailhouse cell "inmate-demo-APU"
+[23302.048640] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23304.273423] psci: CPU0 killed (polled 0 ms)
+[23304.280063] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638727 ns
+Closing cell "inmate-demo-APU"
+[23306.416883] Detected VIPT I-cache on CPU0
+[23306.416929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23306.416981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23306.423005] Destroyed Jailhouse cell "inmate-demo-APU"
+[23306.604035] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23308.813945] psci: CPU0 killed (polled 0 ms)
+[23308.817962] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637313 ns
+Closing cell "inmate-demo-APU"
+[23310.960900] Detected VIPT I-cache on CPU0
+[23310.960948] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23310.960999] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23310.964147] Destroyed Jailhouse cell "inmate-demo-APU"
+[23311.053833] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23313.334093] psci: CPU0 killed (polled 0 ms)
+[23313.338417] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637636 ns
+Closing cell "inmate-demo-APU"
+[23315.472912] Detected VIPT I-cache on CPU0
+[23315.472960] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23315.473014] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23315.473475] Destroyed Jailhouse cell "inmate-demo-APU"
+[23315.684312] external_script (19020): drop_caches: 3
+[23317.917605] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23317.929362] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1648303 ns
+Closing cell "inmate-demo-APU"
+[23320.080889] Detected VIPT I-cache on CPU0
+[23320.080935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23320.080987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23320.085687] Destroyed Jailhouse cell "inmate-demo-APU"
+[23320.269490] external_script (19020): drop_caches: 3
+[23322.489553] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23322.501271] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1636737 ns
+Closing cell "inmate-demo-APU"
+[23324.628877] Detected VIPT I-cache on CPU0
+[23324.628924] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23324.628976] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23324.630060] Destroyed Jailhouse cell "inmate-demo-APU"
+[23324.708096] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23326.914149] psci: CPU0 killed (polled 0 ms)
+[23326.920280] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638747 ns
+Closing cell "inmate-demo-APU"
+[23329.052880] Detected VIPT I-cache on CPU0
+[23329.052929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23329.052982] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23329.054960] Destroyed Jailhouse cell "inmate-demo-APU"
+[23329.138367] external_script (19020): drop_caches: 3
+[23331.365752] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23331.378272] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637666 ns
+Closing cell "inmate-demo-APU"
+[23333.516884] Detected VIPT I-cache on CPU0
+[23333.516931] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23333.516982] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23333.520449] Destroyed Jailhouse cell "inmate-demo-APU"
+[23333.806904] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23335.989530] psci: CPU0 killed (polled 0 ms)
+[23335.994447] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1640181 ns
+Closing cell "inmate-demo-APU"
+[23338.120952] Detected VIPT I-cache on CPU0
+[23338.120999] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23338.121051] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23338.123725] Destroyed Jailhouse cell "inmate-demo-APU"
+[23338.194329] external_script (19020): drop_caches: 3
+[23340.425437] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23340.436545] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637414 ns
+Closing cell "inmate-demo-APU"
+[23342.576885] Detected VIPT I-cache on CPU0
+[23342.576932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23342.576984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23342.577438] Destroyed Jailhouse cell "inmate-demo-APU"
+[23342.653113] external_script (19020): drop_caches: 3
+[23344.857721] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23344.870841] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1639727 ns
+Closing cell "inmate-demo-APU"
+[23347.008897] Detected VIPT I-cache on CPU0
+[23347.008944] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23347.008996] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23347.012072] Destroyed Jailhouse cell "inmate-demo-APU"
+[23347.291075] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23349.588998] psci: CPU0 killed (polled 0 ms)
+[23349.592283] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1639424 ns
+Closing cell "inmate-demo-APU"
+[23351.744885] Detected VIPT I-cache on CPU0
+[23351.744932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23351.744983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23351.747821] Destroyed Jailhouse cell "inmate-demo-APU"
+[23351.810099] external_script (19020): drop_caches: 3
+[23354.037653] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23354.049813] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637232 ns
+Closing cell "inmate-demo-APU"
+[23356.180918] Detected VIPT I-cache on CPU0
+[23356.180965] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23356.181017] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23356.191006] Destroyed Jailhouse cell "inmate-demo-APU"
+[23356.257770] external_script (19020): drop_caches: 3
+[23358.474388] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23358.484930] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1641212 ns
+Closing cell "inmate-demo-APU"
+[23360.629298] Detected VIPT I-cache on CPU0
+[23360.629346] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23360.629402] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23360.632272] Destroyed Jailhouse cell "inmate-demo-APU"
+[23360.796355] external_script (19020): drop_caches: 3
+[23363.013507] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23363.024171] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637212 ns
+Closing cell "inmate-demo-APU"
+[23365.164917] Detected VIPT I-cache on CPU0
+[23365.164964] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23365.165016] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23365.171799] Destroyed Jailhouse cell "inmate-demo-APU"
+[23365.423797] external_script (19020): drop_caches: 3
+[23367.681995] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23367.692779] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637757 ns
+Closing cell "inmate-demo-APU"
+[23369.832877] Detected VIPT I-cache on CPU0
+[23369.832922] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23369.832974] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23369.836530] Destroyed Jailhouse cell "inmate-demo-APU"
+[23369.898499] external_script (19020): drop_caches: 3
+[23372.133726] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23372.147193] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638303 ns
+Closing cell "inmate-demo-APU"
+[23374.297013] Detected VIPT I-cache on CPU0
+[23374.297060] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23374.297111] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23374.297533] Destroyed Jailhouse cell "inmate-demo-APU"
+[23374.379430] external_script (19020): drop_caches: 3
+[23376.654513] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23376.668292] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1641666 ns
+Closing cell "inmate-demo-APU"
+[23378.844880] Detected VIPT I-cache on CPU0
+[23378.844927] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23378.844979] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23378.845700] Destroyed Jailhouse cell "inmate-demo-APU"
+[23379.150114] external_script (19020): drop_caches: 3
+[23381.505311] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23381.522126] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1642050 ns
+Closing cell "inmate-demo-APU"
+[23383.664898] Detected VIPT I-cache on CPU0
+[23383.664946] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23383.664998] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23383.665425] Destroyed Jailhouse cell "inmate-demo-APU"
+[23383.756301] external_script (19020): drop_caches: 3
+[23385.986090] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23385.996768] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1639717 ns
+Closing cell "inmate-demo-APU"
+[23388.148900] Detected VIPT I-cache on CPU0
+[23388.148948] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23388.149000] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23388.152399] Destroyed Jailhouse cell "inmate-demo-APU"
+[23388.217756] external_script (19020): drop_caches: 3
+[23390.497020] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23390.508209] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637939 ns
+Closing cell "inmate-demo-APU"
+[23392.668896] Detected VIPT I-cache on CPU0
+[23392.668953] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23392.669005] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23392.675505] Destroyed Jailhouse cell "inmate-demo-APU"
+[23392.962194] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23395.165830] psci: CPU0 killed (polled 0 ms)
+[23395.171167] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638747 ns
+Closing cell "inmate-demo-APU"
+[23397.308888] Detected VIPT I-cache on CPU0
+[23397.308935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23397.308986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23397.309497] Destroyed Jailhouse cell "inmate-demo-APU"
+[23397.385243] external_script (19020): drop_caches: 3
+[23399.617498] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23399.629112] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1639343 ns
+Closing cell "inmate-demo-APU"
+[23401.768886] Detected VIPT I-cache on CPU0
+[23401.768932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23401.768984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23401.772066] Destroyed Jailhouse cell "inmate-demo-APU"
+[23401.848498] external_script (19020): drop_caches: 3
+[23404.071837] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23404.096040] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638010 ns
+Closing cell "inmate-demo-APU"
+[23406.228890] Detected VIPT I-cache on CPU0
+[23406.228937] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23406.228987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23406.229382] Destroyed Jailhouse cell "inmate-demo-APU"
+[23406.511071] external_script (19020): drop_caches: 3
+[23408.821899] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23408.835107] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1637464 ns
+Closing cell "inmate-demo-APU"
+[23411.016896] Detected VIPT I-cache on CPU0
+[23411.016943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23411.016995] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23411.017453] Destroyed Jailhouse cell "inmate-demo-APU"
+[23411.089050] external_script (19020): drop_caches: 3
+[23413.325589] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23413.339792] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638323 ns
+Closing cell "inmate-demo-APU"
+[23415.496884] Detected VIPT I-cache on CPU0
+[23415.496932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23415.496983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23415.497359] Destroyed Jailhouse cell "inmate-demo-APU"
+[23415.563218] external_script (19020): drop_caches: 3
+[23417.761971] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23417.781083] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638888 ns
+Closing cell "inmate-demo-APU"
+[23419.936884] Detected VIPT I-cache on CPU0
+[23419.936942] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23419.936994] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23419.940089] Destroyed Jailhouse cell "inmate-demo-APU"
+[23420.213744] external_script (19020): drop_caches: 3
+[23422.429007] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23422.440388] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1639727 ns
+Closing cell "inmate-demo-APU"
+[23424.564895] Detected VIPT I-cache on CPU0
+[23424.564942] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23424.564993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23424.565425] Destroyed Jailhouse cell "inmate-demo-APU"
+[23424.635550] external_script (19020): drop_caches: 3
+[23426.877393] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23426.889087] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1634525 ns
+Closing cell "inmate-demo-APU"
+[23429.025062] Detected VIPT I-cache on CPU0
+[23429.025110] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23429.025162] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23429.025717] Destroyed Jailhouse cell "inmate-demo-APU"
+[23429.248206] external_script (19020): drop_caches: 3
+[23431.529772] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23431.541994] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638464 ns
+Closing cell "inmate-demo-APU"
+[23433.668887] Detected VIPT I-cache on CPU0
+[23433.668934] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23433.668986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23433.672008] Destroyed Jailhouse cell "inmate-demo-APU"
+[23433.747953] external_script (19020): drop_caches: 3
+[23435.965360] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23435.978792] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1639919 ns
+Closing cell "inmate-demo-APU"
+[23438.124883] Detected VIPT I-cache on CPU0
+[23438.124930] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23438.124981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23438.126526] Destroyed Jailhouse cell "inmate-demo-APU"
+[23438.406957] external_script (19020): drop_caches: 3
+[23440.621583] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23440.633355] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1640717 ns
+Closing cell "inmate-demo-APU"
+[23442.788888] Detected VIPT I-cache on CPU0
+[23442.788935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23442.788987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23442.791992] Destroyed Jailhouse cell "inmate-demo-APU"
+[23442.870584] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23445.101015] psci: CPU0 killed (polled 0 ms)
+[23445.104425] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638989 ns
+Closing cell "inmate-demo-APU"
+[23447.260872] Detected VIPT I-cache on CPU0
+[23447.260920] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23447.260972] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23447.263640] Destroyed Jailhouse cell "inmate-demo-APU"
+[23447.345130] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23449.653431] psci: CPU0 killed (polled 0 ms)
+[23449.658883] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1639101 ns
+Closing cell "inmate-demo-APU"
+[23451.844895] Detected VIPT I-cache on CPU0
+[23451.844942] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23451.844994] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23451.857666] Destroyed Jailhouse cell "inmate-demo-APU"
+[23452.174582] external_script (19020): drop_caches: 3
+[23454.697438] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23454.713281] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1636454 ns
+Closing cell "inmate-demo-APU"
+[23456.864885] Detected VIPT I-cache on CPU0
+[23456.864931] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23456.864984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23456.865447] Destroyed Jailhouse cell "inmate-demo-APU"
+[23456.925190] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23459.145736] psci: CPU0 killed (polled 0 ms)
+[23459.151403] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1639292 ns
+Closing cell "inmate-demo-APU"
+[23461.300890] Detected VIPT I-cache on CPU0
+[23461.300938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23461.300989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23461.302660] Destroyed Jailhouse cell "inmate-demo-APU"
+[23461.377467] external_script (19020): drop_caches: 3
+[23463.590097] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23463.605551] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1641040 ns
+Closing cell "inmate-demo-APU"
+[23465.728881] Detected VIPT I-cache on CPU0
+[23465.728927] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23465.728979] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23465.736795] Destroyed Jailhouse cell "inmate-demo-APU"
+[23466.023356] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23468.357288] psci: CPU0 killed (polled 0 ms)
+[23468.360575] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1635707 ns
+Closing cell "inmate-demo-APU"
+[23470.508918] Detected VIPT I-cache on CPU0
+[23470.508967] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23470.509019] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23470.509464] Destroyed Jailhouse cell "inmate-demo-APU"
+[23470.599675] external_script (19020): drop_caches: 3
+[23472.825451] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23472.836186] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark anagram execution time: 1638505 ns
+Closing cell "inmate-demo-APU"
+[23474.964890] Detected VIPT I-cache on CPU0
+[23474.964938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23474.964990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23474.972362] Destroyed Jailhouse cell "inmate-demo-APU"
+[23475.064379] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23477.282298] psci: CPU0 killed (polled 0 ms)
+[23477.286181] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332949 ns
+Closing cell "inmate-demo-APU"
+[23479.436912] Detected VIPT I-cache on CPU0
+[23479.436959] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23479.437011] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23479.445862] Destroyed Jailhouse cell "inmate-demo-APU"
+[23479.510738] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23481.753925] psci: CPU0 killed (polled 0 ms)
+[23481.758560] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332272 ns
+Closing cell "inmate-demo-APU"
+[23483.892880] Detected VIPT I-cache on CPU0
+[23483.892944] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23483.892996] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23483.893641] Destroyed Jailhouse cell "inmate-demo-APU"
+[23484.174173] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23486.525499] psci: CPU0 killed (polled 0 ms)
+[23486.529444] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332333 ns
+Closing cell "inmate-demo-APU"
+[23488.696888] Detected VIPT I-cache on CPU0
+[23488.696936] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23488.696989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23488.701172] Destroyed Jailhouse cell "inmate-demo-APU"
+[23488.774309] external_script (19020): drop_caches: 3
+[23490.985176] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23491.001437] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331848 ns
+Closing cell "inmate-demo-APU"
+[23493.160880] Detected VIPT I-cache on CPU0
+[23493.160928] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23493.160980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23493.165691] Destroyed Jailhouse cell "inmate-demo-APU"
+[23493.302466] external_script (19020): drop_caches: 3
+[23495.505642] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23495.520690] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331989 ns
+Closing cell "inmate-demo-APU"
+[23497.648948] Detected VIPT I-cache on CPU0
+[23497.649007] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23497.649058] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23497.652105] Destroyed Jailhouse cell "inmate-demo-APU"
+[23497.960561] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23500.173005] psci: CPU0 killed (polled 0 ms)
+[23500.176314] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332777 ns
+Closing cell "inmate-demo-APU"
+[23502.336896] Detected VIPT I-cache on CPU0
+[23502.336942] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23502.336994] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23502.340032] Destroyed Jailhouse cell "inmate-demo-APU"
+[23502.413165] external_script (19020): drop_caches: 3
+[23504.637941] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23504.647822] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332848 ns
+Closing cell "inmate-demo-APU"
+[23506.784944] Detected VIPT I-cache on CPU0
+[23506.784991] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23506.785043] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23506.785574] Destroyed Jailhouse cell "inmate-demo-APU"
+[23506.840975] external_script (19020): drop_caches: 3
+[23509.133398] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23509.152106] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332272 ns
+Closing cell "inmate-demo-APU"
+[23511.280884] Detected VIPT I-cache on CPU0
+[23511.280932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23511.280982] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23511.282759] Destroyed Jailhouse cell "inmate-demo-APU"
+[23511.354390] external_script (19020): drop_caches: 3
+[23513.577442] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23513.589011] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332303 ns
+Closing cell "inmate-demo-APU"
+[23515.732894] Detected VIPT I-cache on CPU0
+[23515.732940] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23515.732991] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23515.733624] Destroyed Jailhouse cell "inmate-demo-APU"
+[23516.019419] external_script (19020): drop_caches: 3
+[23518.245355] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23518.260218] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332272 ns
+Closing cell "inmate-demo-APU"
+[23520.400975] Detected VIPT I-cache on CPU0
+[23520.401024] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23520.401075] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23520.410391] Destroyed Jailhouse cell "inmate-demo-APU"
+[23520.477448] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23522.677166] psci: CPU0 killed (polled 0 ms)
+[23522.681620] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332595 ns
+Closing cell "inmate-demo-APU"
+[23524.812897] Detected VIPT I-cache on CPU0
+[23524.812944] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23524.812996] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23524.814381] Destroyed Jailhouse cell "inmate-demo-APU"
+[23524.892478] external_script (19020): drop_caches: 3
+[23527.437429] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23527.451769] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 333656 ns
+Closing cell "inmate-demo-APU"
+[23529.704926] Detected VIPT I-cache on CPU0
+[23529.704975] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23529.705030] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23529.713286] Destroyed Jailhouse cell "inmate-demo-APU"
+[23529.835691] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23532.137796] psci: CPU0 killed (polled 0 ms)
+[23532.141256] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331292 ns
+Closing cell "inmate-demo-APU"
+[23534.284884] Detected VIPT I-cache on CPU0
+[23534.284932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23534.284984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23534.285533] Destroyed Jailhouse cell "inmate-demo-APU"
+[23534.524691] external_script (19020): drop_caches: 3
+[23536.734622] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23536.746188] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332575 ns
+Closing cell "inmate-demo-APU"
+[23538.872887] Detected VIPT I-cache on CPU0
+[23538.872934] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23538.872986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23538.875799] Destroyed Jailhouse cell "inmate-demo-APU"
+[23539.059617] external_script (19020): drop_caches: 3
+[23541.253564] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23541.266945] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331777 ns
+Closing cell "inmate-demo-APU"
+[23543.404886] Detected VIPT I-cache on CPU0
+[23543.404932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23543.404985] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23543.405420] Destroyed Jailhouse cell "inmate-demo-APU"
+[23543.677207] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23546.034293] psci: CPU0 killed (polled 0 ms)
+[23546.038463] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332979 ns
+Closing cell "inmate-demo-APU"
+[23548.168883] Detected VIPT I-cache on CPU0
+[23548.168929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23548.168981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23548.169782] Destroyed Jailhouse cell "inmate-demo-APU"
+[23548.458518] external_script (19020): drop_caches: 3
+[23550.665315] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23550.678281] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332818 ns
+Closing cell "inmate-demo-APU"
+[23552.820882] Detected VIPT I-cache on CPU0
+[23552.820928] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23552.820980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23552.821677] Destroyed Jailhouse cell "inmate-demo-APU"
+[23552.886773] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23555.125627] psci: CPU0 killed (polled 0 ms)
+[23555.130945] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331828 ns
+Closing cell "inmate-demo-APU"
+[23557.260908] Detected VIPT I-cache on CPU0
+[23557.260959] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23557.261010] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23557.262026] Destroyed Jailhouse cell "inmate-demo-APU"
+[23557.327769] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23559.565383] psci: CPU0 killed (polled 0 ms)
+[23559.568724] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332181 ns
+Closing cell "inmate-demo-APU"
+[23561.856887] Detected VIPT I-cache on CPU0
+[23561.856935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23561.856988] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23561.862013] Destroyed Jailhouse cell "inmate-demo-APU"
+[23561.927273] external_script (19020): drop_caches: 3
+[23564.533437] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23564.543870] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332121 ns
+Closing cell "inmate-demo-APU"
+[23566.684897] Detected VIPT I-cache on CPU0
+[23566.684944] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23566.684995] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23566.685652] Destroyed Jailhouse cell "inmate-demo-APU"
+[23566.974643] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23569.157597] psci: CPU0 killed (polled 0 ms)
+[23569.161484] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332454 ns
+Closing cell "inmate-demo-APU"
+[23571.296935] Detected VIPT I-cache on CPU0
+[23571.296983] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23571.297034] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23571.300370] Destroyed Jailhouse cell "inmate-demo-APU"
+[23571.535625] external_script (19020): drop_caches: 3
+[23573.749311] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23573.763714] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331898 ns
+Closing cell "inmate-demo-APU"
+[23575.896883] Detected VIPT I-cache on CPU0
+[23575.896932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23575.896984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23575.897384] Destroyed Jailhouse cell "inmate-demo-APU"
+[23575.973702] external_script (19020): drop_caches: 3
+[23578.193511] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23578.204655] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332929 ns
+Closing cell "inmate-demo-APU"
+[23580.349557] Detected VIPT I-cache on CPU0
+[23580.349607] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23580.349660] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23580.352583] Destroyed Jailhouse cell "inmate-demo-APU"
+[23580.655641] external_script (19020): drop_caches: 3
+[23582.997404] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23583.008544] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331848 ns
+Closing cell "inmate-demo-APU"
+[23585.168940] Detected VIPT I-cache on CPU0
+[23585.168986] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23585.169039] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23585.172829] Destroyed Jailhouse cell "inmate-demo-APU"
+[23585.249087] external_script (19020): drop_caches: 3
+[23587.449486] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23587.463009] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332444 ns
+Closing cell "inmate-demo-APU"
+[23589.596902] Detected VIPT I-cache on CPU0
+[23589.596950] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23589.597001] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23589.597431] Destroyed Jailhouse cell "inmate-demo-APU"
+[23589.665456] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23591.897597] psci: CPU0 killed (polled 0 ms)
+[23591.901083] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332090 ns
+Closing cell "inmate-demo-APU"
+[23594.040893] Detected VIPT I-cache on CPU0
+[23594.040953] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23594.041005] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23594.044043] Destroyed Jailhouse cell "inmate-demo-APU"
+[23594.329758] external_script (19020): drop_caches: 3
+[23596.541520] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23596.556129] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332353 ns
+Closing cell "inmate-demo-APU"
+[23598.708887] Detected VIPT I-cache on CPU0
+[23598.708934] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23598.708986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23598.709420] Destroyed Jailhouse cell "inmate-demo-APU"
+[23598.781519] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23601.005741] psci: CPU0 killed (polled 0 ms)
+[23601.010816] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 333232 ns
+Closing cell "inmate-demo-APU"
+[23603.176883] Detected VIPT I-cache on CPU0
+[23603.176943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23603.176994] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23603.178776] Destroyed Jailhouse cell "inmate-demo-APU"
+[23603.464987] external_script (19020): drop_caches: 3
+[23605.997378] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23606.012921] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331616 ns
+Closing cell "inmate-demo-APU"
+[23608.140884] Detected VIPT I-cache on CPU0
+[23608.140930] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23608.140981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23608.144088] Destroyed Jailhouse cell "inmate-demo-APU"
+[23608.209610] external_script (19020): drop_caches: 3
+[23610.477172] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23610.488649] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 333363 ns
+Closing cell "inmate-demo-APU"
+[23612.616891] Detected VIPT I-cache on CPU0
+[23612.616938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23612.616990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23612.619662] Destroyed Jailhouse cell "inmate-demo-APU"
+[23612.694441] external_script (19020): drop_caches: 3
+[23614.913521] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23614.926459] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 333111 ns
+Closing cell "inmate-demo-APU"
+[23617.080891] Detected VIPT I-cache on CPU0
+[23617.080939] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23617.080991] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23617.081602] Destroyed Jailhouse cell "inmate-demo-APU"
+[23617.136910] external_script (19020): drop_caches: 3
+[23619.397795] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23619.411770] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332414 ns
+Closing cell "inmate-demo-APU"
+[23621.588899] Detected VIPT I-cache on CPU0
+[23621.588960] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23621.589011] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23621.591529] Destroyed Jailhouse cell "inmate-demo-APU"
+[23621.889164] external_script (19020): drop_caches: 3
+[23624.101557] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23624.116396] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332505 ns
+Closing cell "inmate-demo-APU"
+[23626.260879] Detected VIPT I-cache on CPU0
+[23626.260926] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23626.260978] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23626.264120] Destroyed Jailhouse cell "inmate-demo-APU"
+[23626.351501] external_script (19020): drop_caches: 3
+[23628.557864] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23628.571157] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332787 ns
+Closing cell "inmate-demo-APU"
+[23630.704888] Detected VIPT I-cache on CPU0
+[23630.704935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23630.704988] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23630.707002] Destroyed Jailhouse cell "inmate-demo-APU"
+[23630.777746] external_script (19020): drop_caches: 3
+[23633.001685] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23633.012962] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 331555 ns
+Closing cell "inmate-demo-APU"
+[23635.168885] Detected VIPT I-cache on CPU0
+[23635.168945] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23635.168997] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23635.170002] Destroyed Jailhouse cell "inmate-demo-APU"
+[23635.470745] external_script (19020): drop_caches: 3
+[23637.801385] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23637.813808] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332575 ns
+Closing cell "inmate-demo-APU"
+[23640.012897] Detected VIPT I-cache on CPU0
+[23640.012945] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23640.012998] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23640.013797] Destroyed Jailhouse cell "inmate-demo-APU"
+[23640.087607] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23642.329385] psci: CPU0 killed (polled 0 ms)
+[23642.335411] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332232 ns
+Closing cell "inmate-demo-APU"
+[23644.468893] Detected VIPT I-cache on CPU0
+[23644.468941] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23644.468992] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23644.470424] Destroyed Jailhouse cell "inmate-demo-APU"
+[23644.554783] external_script (19020): drop_caches: 3
+[23646.781148] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23646.792284] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 333040 ns
+Closing cell "inmate-demo-APU"
+[23648.924893] Detected VIPT I-cache on CPU0
+[23648.924939] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23648.924990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23648.925798] Destroyed Jailhouse cell "inmate-demo-APU"
+[23649.000471] external_script (19020): drop_caches: 3
+[23651.209839] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23651.224791] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332929 ns
+Closing cell "inmate-demo-APU"
+[23653.368886] Detected VIPT I-cache on CPU0
+[23653.368949] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23653.369002] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23653.371852] Destroyed Jailhouse cell "inmate-demo-APU"
+[23653.664541] external_script (19020): drop_caches: 3
+[23655.933400] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23655.948313] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark audiobeam execution time: 332494 ns
+Closing cell "inmate-demo-APU"
+[23658.084884] Detected VIPT I-cache on CPU0
+[23658.084933] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23658.084984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23658.088414] Destroyed Jailhouse cell "inmate-demo-APU"
+[23658.193440] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23660.465689] psci: CPU0 killed (polled 0 ms)
+[23660.469778] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1181 ns
+Closing cell "inmate-demo-APU"
+[23662.612885] Detected VIPT I-cache on CPU0
+[23662.612931] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23662.612981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23662.613498] Destroyed Jailhouse cell "inmate-demo-APU"
+[23662.689401] external_script (19020): drop_caches: 3
+[23664.913670] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23664.925079] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1010 ns
+Closing cell "inmate-demo-APU"
+[23667.236889] Detected VIPT I-cache on CPU0
+[23667.236936] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23667.236986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23667.240263] Destroyed Jailhouse cell "inmate-demo-APU"
+[23667.518512] external_script (19020): drop_caches: 3
+[23669.721348] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23669.732978] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    949 ns
+Closing cell "inmate-demo-APU"
+[23671.904901] Detected VIPT I-cache on CPU0
+[23671.904950] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23671.904999] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23671.908005] Destroyed Jailhouse cell "inmate-demo-APU"
+[23671.996184] external_script (19020): drop_caches: 3
+[23674.186143] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23674.201225] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1333 ns
+Closing cell "inmate-demo-APU"
+[23676.344917] Detected VIPT I-cache on CPU0
+[23676.344966] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23676.345020] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23676.348837] Destroyed Jailhouse cell "inmate-demo-APU"
+[23676.452164] external_script (19020): drop_caches: 3
+[23678.957463] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23678.972070] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1020 ns
+Closing cell "inmate-demo-APU"
+[23681.100896] Detected VIPT I-cache on CPU0
+[23681.100943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23681.100994] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23681.103802] Destroyed Jailhouse cell "inmate-demo-APU"
+[23681.368599] external_script (19020): drop_caches: 3
+[23683.581528] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23683.592884] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    939 ns
+Closing cell "inmate-demo-APU"
+[23685.732896] Detected VIPT I-cache on CPU0
+[23685.732945] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23685.732996] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23685.734764] Destroyed Jailhouse cell "inmate-demo-APU"
+[23685.821897] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23688.041426] psci: CPU0 killed (polled 0 ms)
+[23688.047288] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1070 ns
+Closing cell "inmate-demo-APU"
+[23690.188900] Detected VIPT I-cache on CPU0
+[23690.188948] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23690.188998] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23690.191950] Destroyed Jailhouse cell "inmate-demo-APU"
+[23690.252851] external_script (19020): drop_caches: 3
+[23692.477525] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23692.491845] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1050 ns
+Closing cell "inmate-demo-APU"
+[23694.649007] Detected VIPT I-cache on CPU0
+[23694.649056] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23694.649108] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23694.649740] Destroyed Jailhouse cell "inmate-demo-APU"
+[23694.963901] external_script (19020): drop_caches: 3
+[23697.234038] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23697.243784] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1141 ns
+Closing cell "inmate-demo-APU"
+[23699.380887] Detected VIPT I-cache on CPU0
+[23699.380935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23699.380985] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23699.384047] Destroyed Jailhouse cell "inmate-demo-APU"
+[23699.453324] external_script (19020): drop_caches: 3
+[23701.701404] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23701.712175] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1030 ns
+Closing cell "inmate-demo-APU"
+[23703.844927] Detected VIPT I-cache on CPU0
+[23703.844973] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23703.845025] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23703.850476] Destroyed Jailhouse cell "inmate-demo-APU"
+[23703.927904] external_script (19020): drop_caches: 3
+[23706.125490] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23706.136374] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1070 ns
+Closing cell "inmate-demo-APU"
+[23708.276891] Detected VIPT I-cache on CPU0
+[23708.276938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23708.276990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23708.279797] Destroyed Jailhouse cell "inmate-demo-APU"
+[23708.338935] external_script (19020): drop_caches: 3
+[23710.569340] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23710.585667] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1040 ns
+Closing cell "inmate-demo-APU"
+[23712.732887] Detected VIPT I-cache on CPU0
+[23712.732950] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23712.733001] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23712.735986] Destroyed Jailhouse cell "inmate-demo-APU"
+[23713.021038] external_script (19020): drop_caches: 3
+[23715.257498] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23715.274468] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1040 ns
+Closing cell "inmate-demo-APU"
+[23717.428889] Detected VIPT I-cache on CPU0
+[23717.428937] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23717.428987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23717.431839] Destroyed Jailhouse cell "inmate-demo-APU"
+[23717.496309] external_script (19020): drop_caches: 3
+[23719.669476] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23719.680019] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1404 ns
+Closing cell "inmate-demo-APU"
+[23721.816879] Detected VIPT I-cache on CPU0
+[23721.816926] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23721.816977] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23721.817350] Destroyed Jailhouse cell "inmate-demo-APU"
+[23721.882657] external_script (19020): drop_caches: 3
+[23724.101443] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23724.117969] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1020 ns
+Closing cell "inmate-demo-APU"
+[23726.268902] Detected VIPT I-cache on CPU0
+[23726.268960] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23726.269009] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23726.271859] Destroyed Jailhouse cell "inmate-demo-APU"
+[23726.578959] external_script (19020): drop_caches: 3
+[23728.778035] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23728.801942] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1050 ns
+Closing cell "inmate-demo-APU"
+[23730.956896] Detected VIPT I-cache on CPU0
+[23730.956943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23730.956995] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23730.957445] Destroyed Jailhouse cell "inmate-demo-APU"
+[23731.038295] external_script (19020): drop_caches: 3
+[23733.241302] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23733.256440] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    888 ns
+Closing cell "inmate-demo-APU"
+[23735.400881] Detected VIPT I-cache on CPU0
+[23735.400930] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23735.400980] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23735.404181] Destroyed Jailhouse cell "inmate-demo-APU"
+[23735.468707] external_script (19020): drop_caches: 3
+[23738.173261] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23738.184948] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    878 ns
+Closing cell "inmate-demo-APU"
+[23740.324896] Detected VIPT I-cache on CPU0
+[23740.324942] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23740.324992] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23740.328068] Destroyed Jailhouse cell "inmate-demo-APU"
+[23740.395258] external_script (19020): drop_caches: 3
+[23742.605578] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23742.618551] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    919 ns
+Closing cell "inmate-demo-APU"
+[23744.752886] Detected VIPT I-cache on CPU0
+[23744.752933] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23744.752985] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23744.753363] Destroyed Jailhouse cell "inmate-demo-APU"
+[23745.050313] external_script (19020): drop_caches: 3
+[23747.273398] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23747.289892] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1080 ns
+Closing cell "inmate-demo-APU"
+[23749.420888] Detected VIPT I-cache on CPU0
+[23749.420934] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23749.420984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23749.421427] Destroyed Jailhouse cell "inmate-demo-APU"
+[23749.481181] external_script (19020): drop_caches: 3
+[23751.677339] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23751.694231] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    919 ns
+Closing cell "inmate-demo-APU"
+[23753.820891] Detected VIPT I-cache on CPU0
+[23753.820938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23753.820987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23753.827166] Destroyed Jailhouse cell "inmate-demo-APU"
+[23753.929013] external_script (19020): drop_caches: 3
+[23756.182297] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23756.199998] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1333 ns
+Closing cell "inmate-demo-APU"
+[23758.336895] Detected VIPT I-cache on CPU0
+[23758.336943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23758.336994] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23758.339720] Destroyed Jailhouse cell "inmate-demo-APU"
+[23758.401019] external_script (19020): drop_caches: 3
+[23760.625483] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23760.636921] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1161 ns
+Closing cell "inmate-demo-APU"
+[23762.776883] Detected VIPT I-cache on CPU0
+[23762.776929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23762.776979] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23762.779776] Destroyed Jailhouse cell "inmate-demo-APU"
+[23763.062796] external_script (19020): drop_caches: 3
+[23765.345261] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23765.357975] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    929 ns
+Closing cell "inmate-demo-APU"
+[23767.485207] Detected VIPT I-cache on CPU0
+[23767.485253] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23767.485305] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23767.487957] Destroyed Jailhouse cell "inmate-demo-APU"
+[23767.563006] external_script (19020): drop_caches: 3
+[23769.901922] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23769.912672] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1303 ns
+Closing cell "inmate-demo-APU"
+[23772.076890] Detected VIPT I-cache on CPU0
+[23772.076940] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23772.076993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23772.080637] Destroyed Jailhouse cell "inmate-demo-APU"
+[23772.198474] external_script (19020): drop_caches: 3
+[23774.390041] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23774.401037] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1010 ns
+Closing cell "inmate-demo-APU"
+[23776.528884] Detected VIPT I-cache on CPU0
+[23776.528944] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23776.528995] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23776.532026] Destroyed Jailhouse cell "inmate-demo-APU"
+[23776.839745] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23779.017408] psci: CPU0 killed (polled 0 ms)
+[23779.021878] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    909 ns
+Closing cell "inmate-demo-APU"
+[23781.140896] Detected VIPT I-cache on CPU0
+[23781.140943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23781.140993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23781.145302] Destroyed Jailhouse cell "inmate-demo-APU"
+[23781.225231] external_script (19020): drop_caches: 3
+[23783.429736] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23783.442796] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    868 ns
+Closing cell "inmate-demo-APU"
+[23785.588885] Detected VIPT I-cache on CPU0
+[23785.588932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23785.588983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23785.592280] Destroyed Jailhouse cell "inmate-demo-APU"
+[23785.882889] external_script (19020): drop_caches: 3
+[23788.081510] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23788.097558] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1020 ns
+Closing cell "inmate-demo-APU"
+[23790.240885] Detected VIPT I-cache on CPU0
+[23790.240932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23790.240982] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23790.243806] Destroyed Jailhouse cell "inmate-demo-APU"
+[23790.308861] external_script (19020): drop_caches: 3
+[23792.561239] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23792.578382] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    929 ns
+Closing cell "inmate-demo-APU"
+[23794.704888] Detected VIPT I-cache on CPU0
+[23794.704936] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23794.704986] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23794.708152] Destroyed Jailhouse cell "inmate-demo-APU"
+[23794.765540] external_script (19020): drop_caches: 3
+[23796.989517] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23797.007980] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1070 ns
+Closing cell "inmate-demo-APU"
+[23799.144897] Detected VIPT I-cache on CPU0
+[23799.144941] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23799.144991] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23799.148642] Destroyed Jailhouse cell "inmate-demo-APU"
+[23799.432776] external_script (19020): drop_caches: 3
+[23801.670019] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23801.680784] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1020 ns
+Closing cell "inmate-demo-APU"
+[23803.808905] Detected VIPT I-cache on CPU0
+[23803.808952] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23803.809003] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23803.812928] Destroyed Jailhouse cell "inmate-demo-APU"
+[23803.890520] external_script (19020): drop_caches: 3
+[23806.089369] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23806.100492] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1020 ns
+Closing cell "inmate-demo-APU"
+[23808.232882] Detected VIPT I-cache on CPU0
+[23808.232929] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23808.232979] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23808.234981] Destroyed Jailhouse cell "inmate-demo-APU"
+[23808.504709] external_script (19020): drop_caches: 3
+[23810.821861] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23810.836795] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1131 ns
+Closing cell "inmate-demo-APU"
+[23812.964892] Detected VIPT I-cache on CPU0
+[23812.964941] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23812.964993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23812.968310] Destroyed Jailhouse cell "inmate-demo-APU"
+[23813.223657] external_script (19020): drop_caches: 3
+[23815.457269] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23815.473315] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1060 ns
+Closing cell "inmate-demo-APU"
+[23817.613513] Detected VIPT I-cache on CPU0
+[23817.613561] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23817.613610] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23817.617245] Destroyed Jailhouse cell "inmate-demo-APU"
+[23817.687933] external_script (19020): drop_caches: 3
+[23819.933245] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23819.946592] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1010 ns
+Closing cell "inmate-demo-APU"
+[23822.104888] Detected VIPT I-cache on CPU0
+[23822.104934] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23822.104983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23822.108240] Destroyed Jailhouse cell "inmate-demo-APU"
+[23822.403777] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23824.597477] psci: CPU0 killed (polled 0 ms)
+[23824.601468] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1141 ns
+Closing cell "inmate-demo-APU"
+[23826.788980] Detected VIPT I-cache on CPU0
+[23826.789028] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23826.789079] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23826.792901] Destroyed Jailhouse cell "inmate-demo-APU"
+[23826.884687] external_script (19020): drop_caches: 3
+[23829.157510] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23829.172792] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1080 ns
+Closing cell "inmate-demo-APU"
+[23831.328958] Detected VIPT I-cache on CPU0
+[23831.329005] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23831.329055] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23831.329521] Destroyed Jailhouse cell "inmate-demo-APU"
+[23831.398095] external_script (19020): drop_caches: 3
+[23833.614356] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23833.627244] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:   1070 ns
+Closing cell "inmate-demo-APU"
+[23835.748904] Detected VIPT I-cache on CPU0
+[23835.748963] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23835.749014] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23835.752111] Destroyed Jailhouse cell "inmate-demo-APU"
+[23836.096290] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23838.345042] psci: CPU0 killed (polled 0 ms)
+[23838.348343] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark binarysearch execution time is:    969 ns
+Closing cell "inmate-demo-APU"
+[23840.483165] Detected VIPT I-cache on CPU0
+[23840.483215] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23840.483268] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23840.489928] Destroyed Jailhouse cell "inmate-demo-APU"
+[23840.560760] external_script (19020): drop_caches: 3
+[23842.810113] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23842.821682] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13343 ns
+Closing cell "inmate-demo-APU"
+[23844.952883] Detected VIPT I-cache on CPU0
+[23844.952931] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23844.952981] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23844.953413] Destroyed Jailhouse cell "inmate-demo-APU"
+[23845.030923] external_script (19020): drop_caches: 3
+[23847.297754] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23847.308652] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13464 ns
+Closing cell "inmate-demo-APU"
+[23849.452891] Detected VIPT I-cache on CPU0
+[23849.452938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23849.452989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23849.453428] Destroyed Jailhouse cell "inmate-demo-APU"
+[23849.742821] external_script (19020): drop_caches: 3
+[23851.937515] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23851.948290] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13353 ns
+Closing cell "inmate-demo-APU"
+[23854.076890] Detected VIPT I-cache on CPU0
+[23854.076938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23854.076988] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23854.077878] Destroyed Jailhouse cell "inmate-demo-APU"
+[23854.146317] external_script (19020): drop_caches: 3
+[23856.365319] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23856.382898] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13202 ns
+Closing cell "inmate-demo-APU"
+[23858.520890] Detected VIPT I-cache on CPU0
+[23858.520937] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23858.520987] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23858.523698] Destroyed Jailhouse cell "inmate-demo-APU"
+[23858.601336] external_script (19020): drop_caches: 3
+[23860.829222] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23860.840055] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13282 ns
+Closing cell "inmate-demo-APU"
+[23862.968888] Detected VIPT I-cache on CPU0
+[23862.968933] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23862.968983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23862.969725] Destroyed Jailhouse cell "inmate-demo-APU"
+[23863.233865] external_script (19020): drop_caches: 3
+[23865.557835] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23865.570261] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13535 ns
+Closing cell "inmate-demo-APU"
+[23867.700885] Detected VIPT I-cache on CPU0
+[23867.700933] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23867.700984] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23867.701519] Destroyed Jailhouse cell "inmate-demo-APU"
+[23867.776451] external_script (19020): drop_caches: 3
+[23870.005403] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23870.017129] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13232 ns
+Closing cell "inmate-demo-APU"
+[23872.140889] Detected VIPT I-cache on CPU0
+[23872.140935] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23872.140985] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23872.141586] Destroyed Jailhouse cell "inmate-demo-APU"
+[23872.208914] external_script (19020): drop_caches: 3
+[23874.410391] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23874.424118] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13222 ns
+Closing cell "inmate-demo-APU"
+[23876.580890] Detected VIPT I-cache on CPU0
+[23876.580951] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23876.581002] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23876.583071] Destroyed Jailhouse cell "inmate-demo-APU"
+[23876.860692] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23879.069006] psci: CPU0 killed (polled 0 ms)
+[23879.072618] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13303 ns
+Closing cell "inmate-demo-APU"
+[23881.212963] Detected VIPT I-cache on CPU0
+[23881.213011] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23881.213062] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23881.215907] Destroyed Jailhouse cell "inmate-demo-APU"
+[23881.291633] external_script (19020): drop_caches: 3
+[23883.509733] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23883.524464] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13262 ns
+Closing cell "inmate-demo-APU"
+[23885.672884] Detected VIPT I-cache on CPU0
+[23885.672932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23885.672982] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23885.675934] Destroyed Jailhouse cell "inmate-demo-APU"
+[23885.891329] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23888.309689] psci: CPU0 killed (polled 0 ms)
+[23888.315784] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13919 ns
+Closing cell "inmate-demo-APU"
+[23890.460892] Detected VIPT I-cache on CPU0
+[23890.460941] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23890.460993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23890.463736] Destroyed Jailhouse cell "inmate-demo-APU"
+[23890.763624] external_script (19020): drop_caches: 3
+[23892.993843] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23893.015296] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13373 ns
+Closing cell "inmate-demo-APU"
+[23895.156896] Detected VIPT I-cache on CPU0
+[23895.156943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23895.156993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23895.160934] Destroyed Jailhouse cell "inmate-demo-APU"
+[23895.235132] external_script (19020): drop_caches: 3
+[23897.465786] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23897.477093] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13848 ns
+Closing cell "inmate-demo-APU"
+[23899.612887] Detected VIPT I-cache on CPU0
+[23899.612931] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23899.612983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23899.620083] Destroyed Jailhouse cell "inmate-demo-APU"
+[23899.900692] external_script (19020): drop_caches: 3
+[23902.301238] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23902.312477] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13323 ns
+Closing cell "inmate-demo-APU"
+[23904.468877] Detected VIPT I-cache on CPU0
+[23904.468926] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23904.468977] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23904.471965] Destroyed Jailhouse cell "inmate-demo-APU"
+[23904.620282] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23906.961367] psci: CPU0 killed (polled 0 ms)
+[23906.966716] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13131 ns
+Closing cell "inmate-demo-APU"
+[23909.092890] Detected VIPT I-cache on CPU0
+[23909.092937] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23909.092989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23909.095679] Destroyed Jailhouse cell "inmate-demo-APU"
+[23909.151695] external_script (19020): drop_caches: 3
+[23911.377381] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23911.388497] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13919 ns
+Closing cell "inmate-demo-APU"
+[23913.540891] Detected VIPT I-cache on CPU0
+[23913.540937] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23913.540989] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23913.548349] Destroyed Jailhouse cell "inmate-demo-APU"
+[23913.617420] external_script (19020): drop_caches: 3
+[23915.850118] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23915.875775] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13363 ns
+Closing cell "inmate-demo-APU"
+[23918.000896] Detected VIPT I-cache on CPU0
+[23918.000943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23918.000993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23918.005460] Destroyed Jailhouse cell "inmate-demo-APU"
+[23918.294111] external_script (19020): drop_caches: 3
+[23920.537515] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23920.548971] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13202 ns
+Closing cell "inmate-demo-APU"
+[23922.692912] Detected VIPT I-cache on CPU0
+[23922.692960] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23922.693011] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23922.695881] Destroyed Jailhouse cell "inmate-demo-APU"
+[23922.787875] external_script (19020): drop_caches: 3
+[23925.253353] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23925.268609] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13515 ns
+Closing cell "inmate-demo-APU"
+[23927.396891] Detected VIPT I-cache on CPU0
+[23927.396940] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23927.396990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23927.397616] Destroyed Jailhouse cell "inmate-demo-APU"
+[23927.468371] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23929.653043] psci: CPU0 killed (polled 0 ms)
+[23929.656528] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13454 ns
+Closing cell "inmate-demo-APU"
+[23931.840892] Detected VIPT I-cache on CPU0
+[23931.840956] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23931.841006] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23931.844261] Destroyed Jailhouse cell "inmate-demo-APU"
+[23932.119312] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23934.305220] psci: CPU0 killed (polled 0 ms)
+[23934.310887] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13383 ns
+Closing cell "inmate-demo-APU"
+[23936.456896] Detected VIPT I-cache on CPU0
+[23936.456943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23936.456994] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23936.459940] Destroyed Jailhouse cell "inmate-demo-APU"
+[23936.523419] external_script (19020): drop_caches: 3
+[23938.753424] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23938.765142] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13525 ns
+Closing cell "inmate-demo-APU"
+[23940.912892] Detected VIPT I-cache on CPU0
+[23940.912940] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23940.912990] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23940.914682] Destroyed Jailhouse cell "inmate-demo-APU"
+[23940.994894] external_script (19020): drop_caches: 3
+[23943.261564] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23943.272511] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13353 ns
+Closing cell "inmate-demo-APU"
+[23945.418687] Detected VIPT I-cache on CPU0
+[23945.418738] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23945.418790] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23945.424819] Destroyed Jailhouse cell "inmate-demo-APU"
+[23945.592689] external_script (19020): drop_caches: 3
+[23947.825343] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23947.840704] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13282 ns
+Closing cell "inmate-demo-APU"
+[23949.984891] Detected VIPT I-cache on CPU0
+[23949.984938] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23949.984988] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23949.988676] Destroyed Jailhouse cell "inmate-demo-APU"
+[23950.228602] external_script (19020): drop_caches: 3
+[23952.453222] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23952.464125] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13212 ns
+Closing cell "inmate-demo-APU"
+[23954.620906] Detected VIPT I-cache on CPU0
+[23954.620953] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23954.621004] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23954.632813] Destroyed Jailhouse cell "inmate-demo-APU"
+[23954.711672] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23956.929328] psci: CPU0 killed (polled 0 ms)
+[23956.933650] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13303 ns
+Closing cell "inmate-demo-APU"
+[23959.060897] Detected VIPT I-cache on CPU0
+[23959.060945] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23959.060996] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23959.063544] Destroyed Jailhouse cell "inmate-demo-APU"
+[23959.121046] external_script (19020): drop_caches: 3
+[23961.397201] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23961.409215] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13282 ns
+Closing cell "inmate-demo-APU"
+[23963.560886] Detected VIPT I-cache on CPU0
+[23963.560932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23963.560982] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23963.563608] Destroyed Jailhouse cell "inmate-demo-APU"
+[23963.848863] external_script (19020): drop_caches: 3
+[23966.081549] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23966.093996] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13303 ns
+Closing cell "inmate-demo-APU"
+[23968.240895] Detected VIPT I-cache on CPU0
+[23968.240943] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23968.240993] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23968.242000] Destroyed Jailhouse cell "inmate-demo-APU"
+[23968.319588] external_script (19020): drop_caches: 3
+[23970.549615] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23970.564503] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13505 ns
+Closing cell "inmate-demo-APU"
+[23972.692901] Detected VIPT I-cache on CPU0
+[23972.692949] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23972.692999] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23972.697599] Destroyed Jailhouse cell "inmate-demo-APU"
+[23972.760415] external_script (19020): drop_caches: 3
+Created cell "inmate-demo-APU"
+[23974.981484] psci: CPU0 killed (polled 0 ms)
+[23974.985040] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13343 ns
+Closing cell "inmate-demo-APU"
+[23977.124885] Detected VIPT I-cache on CPU0
+[23977.124932] cacheinfo: Unable to detect cache hierarchy for CPU 0
+[23977.124983] CPU0: Booted secondary processor 0x0000000000 [0x410fd034]
+[23977.127808] Destroyed Jailhouse cell "inmate-demo-APU"
+[23977.195031] external_script (19020): drop_caches: 3
+[23979.609330] psci: CPU0 killed (polled 0 ms)
+Created cell "inmate-demo-APU"
+[23979.622771] Created Jailhouse cell "inmate-demo-APU"
+Cell "inmate-demo-APU" can be loaded
+Started cell "inmate-demo-APU"
+Benchmark bitcount execution time:  13323 ns
+Closing cell "inmate-demo-APU"
+[23981.896898] Detected VIPT I-cache on CPU0
+[23981.896940] BUG: scheduling while atomic: swapper/0/0/0x00000002
+[23981.896945] Modules linked in: jailhouse(O) iptable_nat nf_nat xt_conntrack nf_conntrack nf_defrag_ipv6 nf_defrag_ipv4 xt_comment cfg80211
+[23981.896972] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G           O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.896979] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.896982] Call trace:
+[23981.896985]  dump_backtrace.part.0+0xbc/0xd0
+[23981.897002]  show_stack+0x18/0x30
+[23981.897009]  dump_stack_lvl+0x7c/0xa0
+[23981.897018]  dump_stack+0x18/0x34
+[23981.897024]  __schedule_bug+0x54/0x6c
+[23981.897033]  __schedule+0x4fc/0x6a0
+[23981.897039]  schedule_rtlock+0x28/0x60
+[23981.897045]  rtlock_slowlock_locked+0x320/0xb30
+[23981.897052]  rt_spin_lock+0x64/0x90
+[23981.897059]  rmqueue_bulk+0x48/0x5f4
+[23981.897064]  get_page_from_freelist+0xaf4/0xd80
+[23981.897069]  __alloc_pages+0x134/0xce0
+[23981.897074]  new_slab+0x2b8/0x420
+[23981.897081]  ___slab_alloc+0x46c/0xb30
+[23981.897088]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.897095]  __kmalloc+0x54/0x84
+[23981.897101]  detect_cache_attributes+0x44c/0x570
+[23981.897109]  update_siblings_masks+0x28/0x280
+[23981.897117]  store_cpu_topology+0x44/0x60
+[23981.897123]  secondary_start_kernel+0xd8/0x130
+[23981.897130]  __secondary_switched+0xb0/0xb4
+[23981.897139] bad: scheduling from the idle thread!
+[23981.897141] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W  O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.897147] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.897150] Call trace:
+[23981.897151]  dump_backtrace.part.0+0xbc/0xd0
+[23981.897159]  show_stack+0x18/0x30
+[23981.897166]  dump_stack_lvl+0x7c/0xa0
+[23981.897174]  dump_stack+0x18/0x34
+[23981.897180]  dequeue_task_idle+0x30/0x70
+[23981.897186]  __schedule+0x47c/0x6a0
+[23981.897192]  schedule_rtlock+0x28/0x60
+[23981.897197]  rtlock_slowlock_locked+0x320/0xb30
+[23981.897204]  rt_spin_lock+0x64/0x90
+[23981.897210]  rmqueue_bulk+0x48/0x5f4
+[23981.897215]  get_page_from_freelist+0xaf4/0xd80
+[23981.897220]  __alloc_pages+0x134/0xce0
+[23981.897224]  new_slab+0x2b8/0x420
+[23981.897231]  ___slab_alloc+0x46c/0xb30
+[23981.897237]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.897244]  __kmalloc+0x54/0x84
+[23981.897249]  detect_cache_attributes+0x44c/0x570
+[23981.897255]  update_siblings_masks+0x28/0x280
+[23981.897262]  store_cpu_topology+0x44/0x60
+[23981.897268]  secondary_start_kernel+0xd8/0x130
+[23981.897274]  __secondary_switched+0xb0/0xb4
+[23981.897281] bad: scheduling from the idle thread!
+[23981.897283] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W  O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.897289] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.897291] Call trace:
+[23981.897293]  dump_backtrace.part.0+0xbc/0xd0
+[23981.897301]  show_stack+0x18/0x30
+[23981.897308]  dump_stack_lvl+0x7c/0xa0
+[23981.897315]  dump_stack+0x18/0x34
+[23981.897322]  dequeue_task_idle+0x30/0x70
+[23981.897327]  __schedule+0x47c/0x6a0
+[23981.897332]  schedule_rtlock+0x28/0x60
+[23981.897338]  rtlock_slowlock_locked+0x320/0xb30
+[23981.897344]  rt_spin_lock+0x64/0x90
+[23981.897351]  rmqueue_bulk+0x48/0x5f4
+[23981.897355]  get_page_from_freelist+0xaf4/0xd80
+[23981.897360]  __alloc_pages+0x134/0xce0
+[23981.897364]  new_slab+0x2b8/0x420
+[23981.897370]  ___slab_alloc+0x46c/0xb30
+[23981.897377]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.897384]  __kmalloc+0x54/0x84
+[23981.897388]  detect_cache_attributes+0x44c/0x570
+[23981.897395]  update_siblings_masks+0x28/0x280
+[23981.897401]  store_cpu_topology+0x44/0x60
+[23981.897407]  secondary_start_kernel+0xd8/0x130
+[23981.897414]  __secondary_switched+0xb0/0xb4
+[23981.897420] bad: scheduling from the idle thread!
+[23981.897422] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W  O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.897428] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.897431] Call trace:
+[23981.897432]  dump_backtrace.part.0+0xbc/0xd0
+[23981.897440]  show_stack+0x18/0x30
+[23981.897447]  dump_stack_lvl+0x7c/0xa0
+[23981.897454]  dump_stack+0x18/0x34
+[23981.897461]  dequeue_task_idle+0x30/0x70
+[23981.897466]  __schedule+0x47c/0x6a0
+[23981.897472]  schedule_rtlock+0x28/0x60
+[23981.897477]  rtlock_slowlock_locked+0x320/0xb30
+[23981.897483]  rt_spin_lock+0x64/0x90
+[23981.897490]  rmqueue_bulk+0x48/0x5f4
+[23981.897494]  get_page_from_freelist+0xaf4/0xd80
+[23981.897499]  __alloc_pages+0x134/0xce0
+[23981.897504]  new_slab+0x2b8/0x420
+[23981.897510]  ___slab_alloc+0x46c/0xb30
+[23981.897517]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.897524]  __kmalloc+0x54/0x84
+[23981.897528]  detect_cache_attributes+0x44c/0x570
+[23981.897534]  update_siblings_masks+0x28/0x280
+[23981.897541]  store_cpu_topology+0x44/0x60
+[23981.897547]  secondary_start_kernel+0xd8/0x130
+[23981.897553]  __secondary_switched+0xb0/0xb4
+[23981.897560] bad: scheduling from the idle thread!
+[23981.897561] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W  O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.897567] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.897570] Call trace:
+[23981.897571]  dump_backtrace.part.0+0xbc/0xd0
+[23981.897579]  show_stack+0x18/0x30
+[23981.897586]  dump_stack_lvl+0x7c/0xa0
+[23981.897594]  dump_stack+0x18/0x34
+[23981.897600]  dequeue_task_idle+0x30/0x70
+[23981.897606]  __schedule+0x47c/0x6a0
+[23981.897611]  schedule_rtlock+0x28/0x60
+[23981.897616]  rtlock_slowlock_locked+0x320/0xb30
+[23981.897623]  rt_spin_lock+0x64/0x90
+[23981.897629]  rmqueue_bulk+0x48/0x5f4
+[23981.897634]  get_page_from_freelist+0xaf4/0xd80
+[23981.897639]  __alloc_pages+0x134/0xce0
+[23981.897643]  new_slab+0x2b8/0x420
+[23981.897649]  ___slab_alloc+0x46c/0xb30
+[23981.897655]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.897663]  __kmalloc+0x54/0x84
+[23981.897667]  detect_cache_attributes+0x44c/0x570
+[23981.897673]  update_siblings_masks+0x28/0x280
+[23981.897680]  store_cpu_topology+0x44/0x60
+[23981.897686]  secondary_start_kernel+0xd8/0x130
+[23981.897693]  __secondary_switched+0xb0/0xb4
+[23981.897699] bad: scheduling from the idle thread!
+[23981.897701] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W  O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.897706] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.897709] Call trace:
+[23981.897711]  dump_backtrace.part.0+0xbc/0xd0
+[23981.897718]  show_stack+0x18/0x30
+[23981.897726]  dump_stack_lvl+0x7c/0xa0
+[23981.897733]  dump_stack+0x18/0x34
+[23981.897740]  dequeue_task_idle+0x30/0x70
+[23981.897745]  __schedule+0x47c/0x6a0
+[23981.897750]  schedule_rtlock+0x28/0x60
+[23981.897756]  rtlock_slowlock_locked+0x320/0xb30
+[23981.897762]  rt_spin_lock+0x64/0x90
+[23981.897768]  rmqueue_bulk+0x48/0x5f4
+[23981.897773]  get_page_from_freelist+0xaf4/0xd80
+[23981.897778]  __alloc_pages+0x134/0xce0
+[23981.897782]  new_slab+0x2b8/0x420
+[23981.897788]  ___slab_alloc+0x46c/0xb30
+[23981.897795]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.897802]  __kmalloc+0x54/0x84
+[23981.897806]  detect_cache_attributes+0x44c/0x570
+[23981.897812]  update_siblings_masks+0x28/0x280
+[23981.897819]  store_cpu_topology+0x44/0x60
+[23981.897826]  secondary_start_kernel+0xd8/0x130
+[23981.897832]  __secondary_switched+0xb0/0xb4
+[23981.897838] bad: scheduling from the idle thread!
+[23981.897840] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W  O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.897846] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.897849] Call trace:
+[23981.897850]  dump_backtrace.part.0+0xbc/0xd0
+[23981.897858]  show_stack+0x18/0x30
+[23981.897865]  dump_stack_lvl+0x7c/0xa0
+[23981.897873]  dump_stack+0x18/0x34
+[23981.897879]  dequeue_task_idle+0x30/0x70
+[23981.897884]  __schedule+0x47c/0x6a0
+[23981.897889]  schedule_rtlock+0x28/0x60
+[23981.897895]  rtlock_slowlock_locked+0x320/0xb30
+[23981.897902]  rt_spin_lock+0x64/0x90
+[23981.897908]  rmqueue_bulk+0x48/0x5f4
+[23981.897912]  get_page_from_freelist+0xaf4/0xd80
+[23981.897918]  __alloc_pages+0x134/0xce0
+[23981.897922]  new_slab+0x2b8/0x420
+[23981.897928]  ___slab_alloc+0x46c/0xb30
+[23981.897935]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.897942]  __kmalloc+0x54/0x84
+[23981.897946]  detect_cache_attributes+0x44c/0x570
+[23981.897953]  update_siblings_masks+0x28/0x280
+[23981.897959]  store_cpu_topology+0x44/0x60
+[23981.897965]  secondary_start_kernel+0xd8/0x130
+[23981.897972]  __secondary_switched+0xb0/0xb4
+[23981.897979] bad: scheduling from the idle thread!
+[23981.897981] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W  O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.897986] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.897989] Call trace:
+[23981.897990]  dump_backtrace.part.0+0xbc/0xd0
+[23981.897998]  show_stack+0x18/0x30
+[23981.898006]  dump_stack_lvl+0x7c/0xa0
+[23981.898013]  dump_stack+0x18/0x34
+[23981.898019]  dequeue_task_idle+0x30/0x70
+[23981.898024]  __schedule+0x47c/0x6a0
+[23981.898030]  schedule_rtlock+0x28/0x60
+[23981.898035]  rtlock_slowlock_locked+0x320/0xb30
+[23981.898042]  rt_spin_lock+0x64/0x90
+[23981.898048]  rmqueue_bulk+0x48/0x5f4
+[23981.898052]  get_page_from_freelist+0xaf4/0xd80
+[23981.898057]  __alloc_pages+0x134/0xce0
+[23981.898062]  new_slab+0x2b8/0x420
+[23981.898068]  ___slab_alloc+0x46c/0xb30
+[23981.898074]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.898081]  __kmalloc+0x54/0x84
+[23981.898086]  detect_cache_attributes+0x44c/0x570
+[23981.898092]  update_siblings_masks+0x28/0x280
+[23981.898099]  store_cpu_topology+0x44/0x60
+[23981.898105]  secondary_start_kernel+0xd8/0x130
+[23981.898111]  __secondary_switched+0xb0/0xb4
+[23981.898118] bad: scheduling from the idle thread!
+[23981.898120] CPU: 0 PID: 0 Comm: swapper/0 Tainted: G        W  O       6.1.70-rt5-g846ca23fed2a-dirty #1
+[23981.898125] Hardware name: ZynqMP SMK-K26 Rev1/B/A (DT)
+[23981.898128] Call trace:
+[23981.898129]  dump_backtrace.part.0+0xbc/0xd0
+[23981.898137]  show_stack+0x18/0x30
+[23981.898144]  dump_stack_lvl+0x7c/0xa0
+[23981.898151]  dump_stack+0x18/0x34
+[23981.898158]  dequeue_task_idle+0x30/0x70
+[23981.898163]  __schedule+0x47c/0x6a0
+[23981.898168]  schedule_rtlock+0x28/0x60
+[23981.898174]  rtlock_slowlock_locked+0x320/0xb30
+[23981.898180]  rt_spin_lock+0x64/0x90
+[23981.898187]  rmqueue_bulk+0x48/0x5f4
+[23981.898191]  get_page_from_freelist+0xaf4/0xd80
+[23981.898196]  __alloc_pages+0x134/0xce0
+[23981.898200]  new_slab+0x2b8/0x420
+[23981.898206]  ___slab_alloc+0x46c/0xb30
+[23981.898213]  __kmem_cache_alloc_node+0xc8/0x3a0
+[23981.898220]  __kmalloc+0x54/0x84
+[23981.898225]  detect_cache_attributes+0x44c/0x570
+[23981.898231]  update_siblings_masks+0x28/0x280
+[23981.898237]  store_cpu_topology+0x44/0x60
+[23981.898243]  secondary_start_kernel+0xd8/0x130
+[23981.898250]  __secondary_switched+0xb0/0xb4

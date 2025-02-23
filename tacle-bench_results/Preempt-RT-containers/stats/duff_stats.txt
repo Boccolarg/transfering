@@ -1,0 +1,42 @@
+Configuration: baseline
+  Mean: 0.000005
+  Median: 0.000005
+  Std Dev: 0.000000
+  Min: 0.000005
+  Max: 0.000006
+
+Configuration: cpu8
+  Mean: 0.000006
+  Median: 0.000006
+  Std Dev: 0.000000
+  Min: 0.000005
+  Max: 0.000006
+
+Configuration: fork8
+  Mean: 0.000007
+  Median: 0.000006
+  Std Dev: 0.000003
+  Min: 0.000006
+  Max: 0.000021
+
+Configuration: memcpy8
+  Mean: 0.000005
+  Median: 0.000005
+  Std Dev: 0.000000
+  Min: 0.000005
+  Max: 0.000006
+
+Configuration: open8
+  Mean: 0.000005
+  Median: 0.000005
+  Std Dev: 0.000000
+  Min: 0.000005
+  Max: 0.000006
+
+Configuration: udp8
+  Mean: 0.000006
+  Median: 0.000006
+  Std Dev: 0.000000
+  Min: 0.000005
+  Max: 0.000006
+
